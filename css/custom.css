@@ -9,3 +9,8 @@ body {
     margin-right:10px;
     
 }
+
+#crmWebToEntityForm label {
+    display:inline;
+    font-weight:normal;
+}
