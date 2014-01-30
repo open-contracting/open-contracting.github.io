@@ -735,7 +735,7 @@ value='Reset'></td>
  function reloadImg(){if(document.getElementById('imgid').src.indexOf('&d') !== -1 ){document.getElementById('imgid').src=document.getElementById('imgid').src.substring(0,document.getElementById('imgid').src.indexOf('&d'))+'&d'+new Date().getTime();}else{document.getElementById('imgid').src = document.getElementById('imgid').src+'&d'+new Date().getTime();}}
  function checkMandatery(){
      for(i=0;i<mndFileds.length;i++){ var fieldObj=document.forms['WebToContacts1045878000000072001'][mndFileds[i]];if(fieldObj) {if(((fieldObj.value).replace(/^\s+|\s+$/g, '')).length==0){alert(fldLangVal[i] +' cannot be empty'); fieldObj.focus(); return false;}else if(fieldObj.nodeName=='SELECT'){if(fieldObj.options[fieldObj.selectedIndex].value=='-None-'){alert(fldLangVal[i] +' cannot be none'); fieldObj.focus(); return false;}} else if(fieldObj.type =='checkbox'){ if (fieldObj.checked == false){     alert('Please accept  '+fldLangVal[i]); fieldObj.focus();return false;}}}}
-      $("#registrationForm-Description").val("Registered through website sign up form and gave following expression of interest: " + $("#registrationForm-Description").val())
+      $("#registrationForm-Description").val("Registered through website sign up form and gave following expression of interest: " + $("#registrationForm-Description").val())  
   }
 </script>
 
