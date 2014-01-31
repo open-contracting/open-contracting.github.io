@@ -23,4 +23,6 @@ This project aims to deliver a prototype Open Contracting Data Standard with sec
 
 ## Get involved 
 
-You can [register your interest](/contribute/register.html) in being involved in the standard Stakeholder and Technical Advisory Group [here](/contribute/register.html).
+You can register your interest in being involved in the standard Stakeholder and Technical Advisory Group here.
+
+<a href="/contribute/register.html" class="btn btn-primary btn-lg active" role="button">Join us!</a>
