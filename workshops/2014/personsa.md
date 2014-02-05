@@ -21,8 +21,8 @@ Ran Tameng is a marketing manager and contractor in Nepal. He is 33 years old. H
 #### Contracting information needs
 
 * Fast and real-time access to know if contracts are lost or won
-** And who won, at what rate, for what services
-*** To find out about subcontracting opportunities
+ * And who won, at what rate, for what services
+  * To find out about subcontracting opportunities
 * Documents and technical specifications
 * Locations and timelines
 * Contracting office responsible for a contract
