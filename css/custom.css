@@ -75,17 +75,17 @@ body {
  * HOME PAGE
  ***********************************/
 .block {
-    background-color: white;
-    border-radius: 10px;
-    min-height: 260px;
-    padding: 10px;
-    margin: 40px 5px 30px 5px;
+    margin: 30px 5px;
+}
+.block .btn {
+    width: 100%;
 }
 
-.block > h1, .block > p {
-    line-height: 1;
-    margin: 0;
+.block > .iconic {
+    height: 125px;
+    min-height: 155px;
 }
+
 
 /***********************************
  * POSTS

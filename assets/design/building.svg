@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="125"
+   height="125"
+   id="svg2989"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="building.svg"
+   inkscape:export-filename="/home/bird/Dev/opencontracting/open-contracting.github.io/assets/design/building.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs2991" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.4449294"
+     inkscape:cx="51.427676"
+     inkscape:cy="38.741014"
+     inkscape:document-units="px"
+     inkscape:current-layer="share"
+     showgrid="false"
+     inkscape:window-width="885"
+     inkscape:window-height="783"
+     inkscape:window-x="719"
+     inkscape:window-y="319"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata2994">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-927.36218)">
+    <g
+       id="Layer_1-1"
+       transform="matrix(3.3137087,0,0,3.3137087,17.178073,936.56888)"
+       style="fill:#d3d7cf" />
+    <g
+       id="spin"
+       transform="matrix(3.8760971,0,0,3.8760971,11.042926,928.38868)"
+       style="fill:#eeeeec"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         id="g6"
+         style="fill:#eeeeec">
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#eeeeec"
+           d="m 23.883,6.086 -2.82,2.832 C 22.953,10.809 24,13.324 24,16 24,21.516 19.516,26 14,26 v -2 l -4,4 4,4 v -2 c 7.719,0 14,-6.281 14,-14 0,-3.746 -1.461,-7.266 -4.117,-9.914 z"
+           id="path8" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#eeeeec"
+           d="M 18,4 14,0 V 2 C 6.281,2 0,8.281 0,16 c 0,3.746 1.461,7.266 4.117,9.914 l 2.82,-2.832 C 5.047,21.191 4,18.676 4,16 4,10.484 8.484,6 14,6 v 2 l 4,-4 z"
+           id="path10" />
+      </g>
+    </g>
+    <g
+       id="Layer_1"
+       transform="matrix(1.817757,0,0,1.817757,55.61215,960.90891)" />
+    <g
+       id="Layer_1-2"
+       transform="translate(20.970674,994.47158)" />
+    <g
+       id="Layer_1-0"
+       transform="translate(9.9722281,943.51001)" />
+    <g
+       id="folder_x5F_stroke"
+       transform="matrix(1.2225178,0,0,1.2225178,7.8158976,948.54844)">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#4e4e50"
+         d="M 16,4.002 V 0 H 0 V 12.004 15.379 28 c 0,2.211 1.789,4 4,4 h 24 c 2.207,0 4,-1.789 4,-4 v -11.996 -4 -8.002 H 16 z M 12,4 v 0.002 4 h 4 12 V 12 H 4 V 4 h 8 z M 28,28 H 4 V 16 H 28 V 16.004 28 z"
+         id="path6" />
+    </g>
+    <g
+       id="share"
+       transform="matrix(1.2225178,0,0,1.2225178,10.228748,1004.1948)">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#4e4e50"
+         d="m 35.360396,25.00369 c -0.973,0 -1.832,0.391 -2.523,0.965 l -6.098,-4.352 c 0.387,-0.797 0.621,-1.672 0.621,-2.613 0,-1.293 -0.422,-2.488 -1.117,-3.465 l 7.133,-7.1369997 c 0.593,0.348 1.246,0.602 1.984,0.602 2.211,0 4,-1.789 4,-4 0,-2.211 -1.789,-4 -4,-4 -2.211,0 -4,1.789 -4,4 0,0.738 0.254,1.391 0.602,1.984 l -7.133,7.1369997 c -0.985,-0.703 -2.172,-1.121 -3.469,-1.121 -2.289,0 -4.258,1.301 -5.27,3.191 l -4.816,-1.609 c -0.195,-0.898 -0.957,-1.582 -1.9140002,-1.582 -1.105,0 -2,0.895 -2,2 0,1.105 0.895,2 2,2 0.504,0 0.9530002,-0.203 1.3050002,-0.512 l 4.789,1.598 c -0.047,0.301 -0.094,0.602 -0.094,0.914 0,3.312 2.688,6 6,6 1.648,0 3.145,-0.668 4.23,-1.746 l 6.059,4.324 c -0.172,0.445 -0.289,0.918 -0.289,1.422 0,2.207 1.789,4 4,4 2.211,0 4,-1.793 4,-4 0,-2.207 -1.789,-4 -4,-4 z"
+         id="path6-3" />
+    </g>
+    <g
+       id="Layer_1-7"
+       transform="translate(-37.980232,937.45114)" />
+    <g
+       id="Layer_1-02"
+       transform="translate(78.283627,947.54909)" />
+    <g
+       id="layers"
+       transform="matrix(1.31091,0,0,1.31091,69.421186,938.28422)">
+      <g
+         id="g6-5">
+        <polygon
+           style="fill:#4e4e50"
+           points="0,20 16,24 32,20 32,24 16,28 0,24 "
+           id="polygon8" />
+        <polygon
+           style="fill:#4e4e50"
+           points="0,12 16,16 32,12 32,16 16,20 0,16 "
+           id="polygon10" />
+        <polygon
+           style="fill:#4e4e50"
+           points="0,4 16,0 32,4 32,8 16,12 0,8 "
+           id="polygon12" />
+      </g>
+    </g>
+    <g
+       id="Layer_1-13"
+       transform="matrix(-1,0,0,1,112.59734,1002.4997)" />
+    <g
+       id="list_x5F_nested"
+       transform="matrix(-1.2225178,0,0,1.2225178,119.55051,999.13223)">
+      <g
+         id="g6-9">
+        <circle
+           sodipodi:ry="2"
+           sodipodi:rx="2"
+           sodipodi:cy="2"
+           sodipodi:cx="2"
+           style="fill:#4e4e50"
+           cx="2"
+           cy="2"
+           r="2"
+           id="circle8"
+           d="M 4,2 C 4,3.1045695 3.1045695,4 2,4 0.8954305,4 0,3.1045695 0,2 0,0.8954305 0.8954305,0 2,0 3.1045695,0 4,0.8954305 4,2 z" />
+        <rect
+           y="0"
+           x="8"
+           style="fill:#4e4e50"
+           width="24"
+           height="4"
+           id="rect10" />
+        <circle
+           sodipodi:ry="2"
+           sodipodi:rx="2"
+           sodipodi:cy="10"
+           sodipodi:cx="10"
+           style="fill:#4e4e50"
+           cx="10"
+           cy="10"
+           r="2"
+           id="circle12"
+           d="m 12,10 c 0,1.104569 -0.895431,2 -2,2 -1.1045695,0 -2,-0.895431 -2,-2 0,-1.1045695 0.8954305,-2 2,-2 1.104569,0 2,0.8954305 2,2 z" />
+        <rect
+           x="16"
+           y="8"
+           style="fill:#4e4e50"
+           width="16"
+           height="4"
+           id="rect14" />
+        <circle
+           sodipodi:ry="2"
+           sodipodi:rx="2"
+           sodipodi:cy="26"
+           sodipodi:cx="10"
+           style="fill:#4e4e50"
+           cx="10"
+           cy="26"
+           r="2"
+           id="circle16"
+           d="m 12,26 c 0,1.104569 -0.895431,2 -2,2 -1.1045695,0 -2,-0.895431 -2,-2 0,-1.104569 0.8954305,-2 2,-2 1.104569,0 2,0.895431 2,2 z" />
+        <rect
+           x="16"
+           y="24"
+           style="fill:#4e4e50"
+           width="16"
+           height="4"
+           id="rect18" />
+        <circle
+           sodipodi:ry="2"
+           sodipodi:rx="2"
+           sodipodi:cy="18"
+           sodipodi:cx="18"
+           style="fill:#4e4e50"
+           cx="18"
+           cy="18"
+           r="2"
+           id="circle20"
+           d="m 20,18 c 0,1.104569 -0.895431,2 -2,2 -1.104569,0 -2,-0.895431 -2,-2 0,-1.104569 0.895431,-2 2,-2 1.104569,0 2,0.895431 2,2 z" />
+        <rect
+           x="24"
+           y="16"
+           style="fill:#4e4e50"
+           width="8"
+           height="4"
+           id="rect22" />
+      </g>
+    </g>
+  </g>
+</svg>
