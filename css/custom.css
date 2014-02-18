@@ -1,7 +1,36 @@
 body {
-  min-height: 2000px;
-  padding-top: 70px;
+  height: 100%;
   background-color:#f6f6f6;
+}
+
+.container {
+    height: 100%;
+    background: white;
+}
+
+.navbar {
+    min-width: 420px;
+}
+
+.navbar-default {
+    border-bottom: none;
+}
+
+.navbar > .container {
+    border-bottom: #EAEF45 solid 10px;
+}
+
+.navbar-nav a:hover {
+    background-color: #EAEF45 !important;
+}
+
+.active > a {
+    background-color: #EAEF45 !important;
+    
+}
+
+.main {
+    margin-top: 50px;
 }
 
 .ident-logo {
