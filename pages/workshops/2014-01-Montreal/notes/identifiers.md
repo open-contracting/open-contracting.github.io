@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: single
+group: workshop-2014-01-montreal
 title: Identifiers
 date: 31/1/2014
 ---

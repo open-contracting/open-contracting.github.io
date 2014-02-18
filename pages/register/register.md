@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Register
 date: 28/01/2014
 ---

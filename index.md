@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: base
 title: Welcome to the Open Contracting Data Standard Project
 ---
 <div class="post-title">
@@ -31,7 +31,7 @@ title: Welcome to the Open Contracting Data Standard Project
                     We discussed use ...
                 </div>
                 <div class="panel-body">
-                    <a href="/workshops/2014-01-Jan-Montreal/index.html" class="btn btn-primary btn-lg" role="button">Read more</a>
+                    <a href="/pages/workshops/2014-01-Montreal/index.html" class="btn btn-primary btn-lg" role="button">Read more</a>
                 </div>
             </div>
         </div>
