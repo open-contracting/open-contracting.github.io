@@ -1,5 +1,4 @@
 body {
-    overflow: -moz-scrollbars-vertical;
     font-size: 18px;
     height: 100%;
     background-color:#f6f6f6;
@@ -8,6 +7,7 @@ body {
 .container {
     height: 100%;
     background: white;
+    min-width: 420px;
 }
 
 .main {
@@ -17,10 +17,6 @@ body {
 /***********************************
  * NAV
  ***********************************/
-
-.navbar {
-    min-width: 420px;
-}
 
 .navbar-default {
     border-bottom: none;
@@ -36,28 +32,31 @@ body {
     border-bottom: #EAEF45 solid 10px;
 }
 
-.navbar-nav {
-    height: 60px;
+.nav > li > a {
+    padding-bottom: 12px;
+    background-color: white !important;
 }
 
-.navbar-nav a {
-    margin: 0 5px;
+.nav-tabs {
+    border-bottom: none;
 }
 
-.navbar-nav a:hover {
-    border-radius: 10px;
+.nav-tabs > li > a {
+    color: #333;
+}
+.nav-tabs > li > a:hover {
+    text-decoration: underline;
     background-color: #EAEF45 !important;
 }
 
-.active > a {
-    border-radius: 10px;
+.nav-tabs > .active > a {
     background-color: #EAEF45 !important;
     
 }
 
 .ident-logo {
-    margin-top:10px;
-    margin-right:10px;
+    margin-top: 5px;
+    margin-right: 10px;
     
 }
 
@@ -125,4 +124,17 @@ body {
 #crmWebToEntityForm label {
     display:inline;
     font-weight:normal;
+}
+
+@media (max-width: 470px) { 
+    body {
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 992px) { 
+    .navbar-collapse.collapse > a {
+        font-size: 14px;
+        //display: none !important;
+    }
 }
