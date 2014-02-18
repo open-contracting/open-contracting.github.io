@@ -1,10 +1,7 @@
 ---
-layout: default
-title: Open Contracting Data Standards
-categories: workshops, users
-created: 2014-01-31
-updated: 2014-01-31
-author: Tim Davies, Sarah Bird
+layout: post
+title: Personas
+date: 31/1/2014
 ---
 
 ## Background

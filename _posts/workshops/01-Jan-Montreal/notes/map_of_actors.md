@@ -1,3 +1,8 @@
+---
+layout: post
+title: Map of Actors
+date: 31/1/2014
+---
 Revenue side:
 * Leasing
 * Licensing
