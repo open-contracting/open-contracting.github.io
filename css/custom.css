@@ -2,6 +2,7 @@ body {
     font-size: 18px;
     height: 100%;
     background-color:#f6f6f6;
+    background: url("/assets/design/absurdidad.png");
 }
 
 .container {
@@ -11,7 +12,7 @@ body {
 }
 
 .main {
-    margin-top: 70px;
+    margin-top: 65px;
 }
 
 /***********************************
@@ -20,20 +21,23 @@ body {
 
 .navbar-default {
     border-bottom: none;
+    background: rgba(1, 1, 1, .8);
 }
 
 .navbar-default .navbar-brand {
     text-transform: uppercase;
     color: #BBB;
+    margin-top: -5px;
 }
 
 .navbar > .container {
     padding-top: 20px;
-    border-bottom: #EAEF45 solid 10px;
+    //border-bottom: #EAEF45 solid 10px;
+    background: transparent;
 }
 
 .nav > li > a {
-    padding-bottom: 12px;
+    padding-bottom: 14px;
     background-color: white !important;
 }
 
@@ -68,7 +72,6 @@ body {
     border-radius: 10px;
     min-height: 260px;
     padding: 10px;
-    //border: #9CAD27 solid 1px;
     margin: 40px 5px 30px 5px;
 }
 
@@ -128,6 +131,12 @@ body {
 @media (max-width: 470px) { 
     body {
         font-size: 14px;
+    }
+}
+
+@media (max-width: 768px) { 
+    .navbar > .container {
+        padding-bottom: 20px;
     }
 }
 

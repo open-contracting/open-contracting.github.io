@@ -35,12 +35,12 @@
           <div class="navbar-header collapse navbar-collapse">
               <a class="navbar-brand" href="/">{{site.name}}</a>
           </div>
-              <ul class="nav nav-tabs navbar-right">
-                  <li><a class="" href="/">Home</a></li>
-                  <li><a class="" href="/about.html">About</a></li>
-                  <li><a class="" href="/contribute.html">Contribute</a></li>
-                  <li><a class="" href="/contact.html">Contact</a></li>
-              </ul>
+          <div class="btn-group nav navbar-right">
+              <a class="btn btn-default" href="/">Home</a>
+              <a class="btn btn-default" href="/pages/about.html">About</a>
+              <a class="btn btn-default" href="/pages/contribute.html">Contribute</a>
+              <a class="btn btn-default" href="/pages/contact.html">Contact</a>
+          </div>
       </div>
   </div>
 
@@ -56,9 +56,9 @@
     <script>
         //Set the NavBar highlight
         var url = window.location;
-        $('ul.nav a').filter(function() {
+        $('.nav > a').filter(function() {
             return this.href == url;
-        }).parent().addClass('active');
+        }).addClass('active');
     </script>
     
     <script>
