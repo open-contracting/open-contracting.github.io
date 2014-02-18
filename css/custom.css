@@ -58,6 +58,24 @@ body {
 }
 
 /***********************************
+ * HOME PAGE
+ ***********************************/
+.block {
+    background-color: white;
+    border-radius: 10px;
+    min-height: 160px;
+    padding: 10px;
+    vertical-align: bottom;
+    border: #9CAD27 solid 1px;
+    margin: 40px 5px 30px 5px;
+}
+
+.block > h1, .block > p {
+    line-height: 1;
+    margin: 0;
+}
+
+/***********************************
  * POSTS
  ***********************************/
 
@@ -90,6 +108,7 @@ body {
 }
 
 .meta {
+    margin-top: 20px;
     font-size: 0.8em;
     font-style: italic;
     color: #AAA;
