@@ -26,6 +26,11 @@ body {
 .navbar-nav {
     height: 60px;
 }
+
+.navbar-nav a {
+    margin: 0 5px;
+}
+
 .navbar-nav a:hover {
     border-radius: 10px;
     background-color: #EAEF45 !important;
@@ -33,7 +38,7 @@ body {
 
 .active > a {
     border-radius: 10px;
-    background-color: white !important;
+    background-color: #EAEF45 !important;
     
 }
 
