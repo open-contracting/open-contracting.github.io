@@ -1,7 +1,8 @@
 body {
-  font-size: 18px;
-  height: 100%;
-  background-color:#f6f6f6;
+    overflow: -moz-scrollbars-vertical;
+    font-size: 18px;
+    height: 100%;
+    background-color:#f6f6f6;
 }
 
 .container {
@@ -9,13 +10,25 @@ body {
     background: white;
 }
 
+.main {
+    margin-top: 70px;
+}
+
+/***********************************
+ * NAV
+ ***********************************/
+
 .navbar {
-    font-size: .8em;
     min-width: 420px;
 }
 
 .navbar-default {
     border-bottom: none;
+}
+
+.navbar-default .navbar-brand {
+    text-transform: uppercase;
+    color: #BBB;
 }
 
 .navbar > .container {
@@ -42,19 +55,10 @@ body {
     
 }
 
-.main {
-    margin-top: 70px;
-}
-
 .ident-logo {
     margin-top:10px;
     margin-right:10px;
     
-}
-
-#crmWebToEntityForm label {
-    display:inline;
-    font-weight:normal;
 }
 
 /***********************************
@@ -112,4 +116,13 @@ body {
     font-size: 0.8em;
     font-style: italic;
     color: #AAA;
+}
+
+/***********************************
+ * REGISTRATION FORM
+ ***********************************/
+
+#crmWebToEntityForm label {
+    display:inline;
+    font-weight:normal;
 }
