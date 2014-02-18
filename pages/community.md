@@ -11,6 +11,9 @@ title: Community
  * Meet on Pro Act
  * Mailing list at
 
+If you are interesting in being part of the data standard development process,
+we would be really grateful if you could [register your interest](register/register.html).
+
 ### Wider Open Contracting Community
 In addition to the group of people working on the open contracting data standard, there
 is a wider open contracting community. The focal point for this community is
