@@ -1,6 +1,13 @@
+* {
+    margin: 0;
+}
+
+html, body {
+    height: 100%
+}
+
 body {
     font-size: 18px;
-    height: 100%;
     background-color:#f6f6f6;
     background: url("/assets/design/absurdidad.png");
 }
@@ -12,7 +19,8 @@ body {
 }
 
 .main {
-    margin-top: 65px;
+    padding-top: 90px;
+    height: 100%;
 }
 
 /***********************************
@@ -30,9 +38,8 @@ body {
     margin-top: -5px;
 }
 
-.navbar > .container {
+.navbar > .container, footer > .container {
     padding-top: 20px;
-    //border-bottom: #EAEF45 solid 10px;
     background: transparent;
 }
 
@@ -128,6 +135,55 @@ body {
     font-weight:normal;
 }
 
+/***********************************
+ * FOOTER
+ ***********************************/
+.page-wrap {
+  min-height: 100%;
+  margin-bottom: -100px; 
+}
+
+.page-wrap:after {
+  content: "";
+  display: block;
+}
+
+.site-footer, .page-wrap:after {
+  height: 100px; 
+}
+
+.site-footer {
+    background: rgb(214, 213, 213);
+    background: rgba(214, 213, 213, .5);
+    font-size: .8em;
+}
+
+.site-footer > .container {
+    padding-top: 15px;
+}
+
+.panel-inverse {
+    margin-bottom: 0;
+    background: rgb(1, 1, 1);
+    background: rgba(1, 1, 1, .5);
+    color: white;
+}
+
+.panel-inverse a {
+    color: white;
+}
+
+.panel-inverse a:hover {
+    text-decoration: underline;
+}
+.panel-inverse > div > ul, .panel-inverse > div > p {
+    margin-bottom: 0;
+}
+
+/***********************************
+ * MEDIA
+ ***********************************/
+
 @media (max-width: 470px) { 
     body {
         font-size: 14px;
@@ -146,3 +202,5 @@ body {
         //display: none !important;
     }
 }
+
+
