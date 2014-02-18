@@ -1,4 +1,5 @@
 body {
+  font-size: 18px;
   height: 100%;
   background-color:#f6f6f6;
 }
@@ -9,6 +10,7 @@ body {
 }
 
 .navbar {
+    font-size: .8em;
     min-width: 420px;
 }
 
@@ -17,20 +19,26 @@ body {
 }
 
 .navbar > .container {
+    padding-top: 20px;
     border-bottom: #EAEF45 solid 10px;
 }
 
+.navbar-nav {
+    height: 60px;
+}
 .navbar-nav a:hover {
+    border-radius: 10px;
     background-color: #EAEF45 !important;
 }
 
 .active > a {
-    background-color: #EAEF45 !important;
+    border-radius: 10px;
+    background-color: white !important;
     
 }
 
 .main {
-    margin-top: 50px;
+    margin-top: 70px;
 }
 
 .ident-logo {
@@ -42,4 +50,42 @@ body {
 #crmWebToEntityForm label {
     display:inline;
     font-weight:normal;
+}
+
+/***********************************
+ * POSTS
+ ***********************************/
+
+.post-title {
+    padding: 3px 10px;
+    background-color: #EAEF45;
+    margin: 0 30px 30px 30px;
+    position: relative;
+}
+
+.post-title:before {
+    right: 100%;
+}
+
+.post-title:after {
+    left: 100%;
+}
+
+.post-title:after, .post-title:before {
+    background: none repeat scroll 0 0 #EAEF45;
+    bottom: 0;
+    content: "";
+    position: absolute;
+    top: 0;
+    width: 45px;
+}
+
+.post {
+    margin: 40px;
+}
+
+.meta {
+    font-size: 0.8em;
+    font-style: italic;
+    color: #AAA;
 }
