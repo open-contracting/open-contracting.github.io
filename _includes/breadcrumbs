@@ -1,0 +1,15 @@
+{% assign url_parts = page.url | remove: "/index.html" | split:'/' %}
+{% assign crumburl="" %}
+
+<ol class="breadcrumb">
+{% for part in url_parts %}
+    {% if part == '' %}
+        <li><a href="/">home</a></li>
+        {% assign crumburl = '/pages' %}
+    {% elsif part =='pages' %}
+    {% else %}
+        {% assign crumburl = crumburl | append:'/' | append: part %}
+        <li {% if part == url_parts.last %}class="active"{% endif %}><a href="{{ crumburl }}">{{part}}</a></li>
+    {% endif %}
+{% endfor %}
+</ol>

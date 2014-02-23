@@ -1,0 +1,20 @@
+---
+layout: base
+---
+<div class="post-title">
+    <ol class="breadcrumb">
+        <li><a href="/">home</a></li>
+        <li><a href="/pages/notes">notes</a></li>
+        <li class="active"><a href="{{ page.url }}">{{ page.title }}</a></li>
+    </ol>
+    <p class="meta">
+    {% if page.date %}<span class="item">{{ page.date | date_to_string }}</span> - {% endif %}
+    {% if page.author %}<span>{{ page.author }}</span>{% endif %}
+    </p>
+</div>
+
+
+<div class="post">
+<h1>{{ page.title }}</h1>
+{{ content }}
+</div>

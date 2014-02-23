@@ -5,6 +5,7 @@ title: Notes
 #### Archive
 * [Notes from our meeting in Montreal in Janaury 2014](workshops/2014-01-Montreal)
 
+
 #### Updates Archive
 <ul class="posts">
 {% for post in site.posts %}
