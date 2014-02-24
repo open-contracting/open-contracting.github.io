@@ -209,6 +209,27 @@ body {
 .panel-inverse > div > ul, .panel-inverse > div > p {
     margin-bottom: 0;
 }
+/************************************
+* COMMUNITY
+************************************/
+.jumbotron.community {
+    min-height: 150px;
+    position: relative;
+    padding: 30px;
+    padding-bottom: 20px;
+}
+.github-img {
+    position: absolute; 
+    top: 0; 
+    right: 0; 
+    border: 0;
+} 
+.github-text {
+    padding-right: 70px;
+}
+.mailing-list {
+    margin-top: 10px;
+}
 
 /***********************************
  * MEDIA
