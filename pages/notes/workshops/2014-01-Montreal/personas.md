@@ -118,4 +118,104 @@ children and a husband and used to work for the Ministry of Finance.
 * History / timeline of contracts & contrators - especially in terms of past results and compliance
 * Alerts (monthly) on contracts flagged as non-compliant.
 
- 
+----
+
+## Ravi Shrestha, Owns small store
+<div class="well">
+Ravi is 42, he owns a small store. He is happily married, with 2 daughters and living in the house since his birth and inherited from his parents. He has lost both his parents.
+He is running small retail store, part of his house. His house is in the Panipoknari area of Kathmandu. The government has started the road expansion project from Lazinpat to Maharajgung, 
+and passes through Panipoknari. His house is one of those which is going to be pulled down in this expansion. The work has started, in a sense, few houses has been brought down and 
+its moving towards his place. He contacted the local authority metropolitan office for details on the project, like project dates, allocation, contractor information.
+</div> 
+
+### Contracting information needs
+* Start date
+* End date
+* Description
+* Phase
+* Location
+* Point of contact
+* Milestones
+* % of payment
+* Number of bidders
+* Stage of contract
+* Amount
+* Initial tender date
+* Winning bidder
+* Government procurement officer & who signed it
+* Government
+* Contract document
+
+### Useful tool
+Citizen Alert:
+
+* Alerts - SMS 
+* something around my area can subscribe
+
+----
+
+## Abraham 'Abe' Bayendala, Junior Procurement Officer, Department of Roads, Uganda
+<div class="well">
+Abe is 32. He is a graduate from Makerere University. He was a civil engineer when he joined the Ministry. And he is currently doing a distance learning course
+in public administration. He is about to get married.
+</div> 
+
+### Contracting information needs
+* What did previous contracts - so he can base new contracts on them
+* History of current contract bidders
+
+### Useful tool
+Findit / Useit - Smart contracts portal:
+
+* Filters - sector, location, vendor
+* Analysis of - performance, historical data / docs
+* Prioritizes best matches text analysis
+* Offers draft contract based on all above
+* Who to contact
+
+----
+
+## Alice, Investigative Journalist
+<div class="well">
+Alice is 40. She is canadian, graduated from Concordia Jounalism school and covered several different beats throughout her career (city hall, police, etc.). She
+is now the newspaper's only investigative journalist
+</div> 
+
+### Contracting information needs
+Basic:
+
+* Date awarded
+* Company name
+* Government agency / department
+* Value contract
+* Process (public call for tender, no call for tender, etc.)
+* Whether company was sole bidder
+
+Advanced:
+
+* Geographic location
+* List of other bidders and values bid
+* Contract deliverables
+* Who works at the company (and other bidders)
+* Who was involved in government decision
+* Bidding documents (to compare for similar text)
+* Sub-contractors (and whether they are bidder)
+
+### Useful tool
+Find misuse of public funds (watch dog) - [Fouineur 2.0](https://twitter.com/johnthegeo/status/429306407134167041):
+
+* Data quality - source & completeness
+* Comparisons between budget & procurement
+* Merge secondary budget data source
+* Display entire timeline of procurement process - procurement, bids, fulfillment, performance, disbursement
+* Show all linked documents
+* Company profile - links to other companies, shareholders & addresses, open corporates (secondary source)
+* Industry sector analytics
+* Sophisticated mapping and GIS features
+* Secondary source - tax returns from all the players
+* Regulatory history - disbarement list, links between blacklist and safe
+* Social media pulse - linked to locations, dates and keywords
+* Media authoring using all these elements
+* Export data to all the key formats and publishing
+
+----
