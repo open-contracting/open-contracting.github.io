@@ -41,7 +41,7 @@
               <!--<a class="btn btn-default" href="/pages/about.html">Roadmap</a>-->
               <a class="btn btn-default" href="/pages/work">Work</a>
               <a class="btn btn-default" href="/pages/notes">Notes</a>
-              <a class="btn btn-default" href="/pages/community.html">Community</a>
+              <a class="btn btn-default" href="/pages/community">Community</a>
           </div>
       </div>
   </div>
@@ -77,8 +77,13 @@
     <script src="{{site.baseurl}}bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
     <script>
         //Set the NavBar highlight
-        var url = window.location;
+        var url = window.location.href;
+        if(url.substr(-1) == '/') {
+            url = url.substr(0, url.length - 1);
+        }
         $('.nav > a').filter(function() {
+            console.log(this.href);
+            console.log(url);
             return this.href == url;
         }).addClass('active');
     </script>
