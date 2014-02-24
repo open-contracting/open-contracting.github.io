@@ -12,7 +12,7 @@ Personal profiles help us to consider the constraints that potential users of Op
 ----
 
 ## Ran Tameng, Marketing Manager
-[Original](/assets/images/IMG_6269.JPG)
+[Original](/assets/images/2014-01-Montreal/IMG_6269.JPG)
 <div class="well">
 Ran Tameng is a marketing manager and contractor in Nepal. He is 33 years old. He runs a 50 person company building roads. He is seeking new business by reading tenders, driving around, and reading the papers. He uses a mobile phone and is well networked. He is highly competitive, and very busy. He has an assistant to help him out because he is always short of time. 
 </div>
@@ -28,7 +28,7 @@ Ran Tameng is a marketing manager and contractor in Nepal. He is 33 years old. H
 * Procurement conditions
 
 ### Use case ideas
-Nepal Public Contracts Portal - [mockup](/assets/images/IMG_6268.JPG)
+Nepal Public Contracts Portal - [mockup](/assets/images/2014-01-Montreal/IMG_6268.JPG)
 
 
 ----
@@ -99,6 +99,7 @@ Yuki is 48 and lives in DC with her husband and teenage children. She has an und
 ----
 
 ## Gloria, Head of Tax Payer Association in Malawi
+[Original](/assets/images/2014-01-Montreal/personas_gloria.JPG)
 <div class="well">
 Gloria is the head of the Tax Payer ASsociation based in Blantyre, Malawi. She
 is 39 and has a master's degree in public policy from a UK university. She has 2
@@ -121,6 +122,7 @@ children and a husband and used to work for the Ministry of Finance.
 ----
 
 ## Ravi Shrestha, Owns small store
+[Original](/assets/images/2014-01-Montreal/personas_ravi.JPG)
 <div class="well">
 Ravi is 42, he owns a small store. He is happily married, with 2 daughters and living in the house since his birth and inherited from his parents. He has lost both his parents.
 He is running small retail store, part of his house. His house is in the Panipoknari area of Kathmandu. The government has started the road expansion project from Lazinpat to Maharajgung, 
@@ -155,6 +157,7 @@ Citizen Alert:
 ----
 
 ## Abraham 'Abe' Bayendala, Junior Procurement Officer, Department of Roads, Uganda
+[Original](/assets/images/2014-01-Montreal/personas_abe.JPG)
 <div class="well">
 Abe is 32. He is a graduate from Makerere University. He was a civil engineer when he joined the Ministry. And he is currently doing a distance learning course
 in public administration. He is about to get married.
@@ -176,6 +179,7 @@ Findit / Useit - Smart contracts portal:
 ----
 
 ## Alice, Investigative Journalist
+[Original](/assets/images/2014-01-Montreal/personas_alice_1.JPG)
 <div class="well">
 Alice is 40. She is canadian, graduated from Concordia Jounalism school and covered several different beats throughout her career (city hall, police, etc.). She
 is now the newspaper's only investigative journalist
@@ -217,5 +221,7 @@ Find misuse of public funds (watch dog) - [Fouineur 2.0](https://twitter.com/joh
 * Social media pulse - linked to locations, dates and keywords
 * Media authoring using all these elements
 * Export data to all the key formats and publishing
+
+[Original](/assets/images/2014-01-Montreal/personas_alice_2.JPG)
 
 ----
