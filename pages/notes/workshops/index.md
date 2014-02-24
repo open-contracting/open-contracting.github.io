@@ -1,9 +1,7 @@
 ---
 layout: single
-title: Montreal - Jan, 2014
+title: Workshops
 ---
-<ul>
 {% assign pages_list = site.pages %}
-{% assign group = 'workshop-2014-01-montreal' %}
+{% assign group = 'workshop index' %}
 {% include JB/pages_list %}
-</ul>
