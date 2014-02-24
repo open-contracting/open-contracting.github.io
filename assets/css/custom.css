@@ -1,0 +1,293 @@
+* {
+    margin: 0;
+}
+
+html, body {
+    height: 100%
+}
+
+body {
+    font-size: 18px;
+    background-color:#f6f6f6;
+    background: url("/assets/design/absurdidad.png");
+}
+
+.container {
+    height: 100%;
+    background: white;
+    min-width: 420px;
+}
+
+.main {
+    padding-top: 90px;
+    height: 100%;
+}
+
+/***********************************
+ * NAV
+ ***********************************/
+
+.navbar-default {
+    border-bottom: none;
+    background: rgba(1, 1, 1, .8);
+}
+
+.navbar-default .navbar-brand {
+    text-transform: uppercase;
+    color: #BBB;
+    margin-top: -5px;
+}
+
+.navbar > .container, footer > .container {
+    padding-top: 20px;
+    background: transparent;
+}
+
+.nav > li > a {
+    padding-bottom: 14px;
+    background-color: white !important;
+}
+
+.nav-tabs {
+    border-bottom: none;
+}
+
+.nav-tabs > li > a {
+    color: #333;
+}
+.nav-tabs > li > a:hover {
+    text-decoration: underline;
+    background-color: #EAEF45 !important;
+}
+
+.nav-tabs > .active > a {
+    background-color: #EAEF45 !important;
+    
+}
+
+.ident-logo {
+    margin-top: 5px;
+    margin-right: 10px;
+    
+}
+
+/***********************************
+ * BREADCRUMBS
+ * *********************************/
+.breadcrumb {
+    background-color: inherit;
+    margin: 20px 0;
+    padding-left: 0;
+    text-transform: uppercase;
+}
+
+.breadcrumb > li > a {
+    color: #666;
+}
+
+.breadcrumb > li.active > a {
+    color: #AEAEAE;
+}
+
+/***********************************
+ * HOME PAGE
+ ***********************************/
+.block {
+    margin: 30px 5px;
+}
+.block .btn {
+    width: 100%;
+}
+
+.block > .iconic {
+    margin: 15px;
+    padding: 0;
+    height: 125px;
+}
+
+.iconic-block > a {
+    color: #444;
+    text-decoration: none;
+}
+
+.iconic-text {
+    font-size: 16px;
+}
+
+/***********************************
+ * POSTS
+ ***********************************/
+
+.post-title {
+    padding: 3px 10px;
+    background-color: #EAEF45;
+    margin: 0 30px 30px 30px;
+    position: relative;
+}
+
+.post-title:before {
+    right: 100%;
+}
+
+.post-title:after {
+    left: 100%;
+}
+
+.post-title:after, .post-title:before {
+    background: none repeat scroll 0 0 #EAEF45;
+    bottom: 0;
+    content: "";
+    position: absolute;
+    top: 0;
+    width: 45px;
+}
+
+.post {
+    margin: 40px;
+}
+
+.meta {
+    font-size: .8em;
+    font-weight: bold;
+    color: #666;
+}
+
+/***********************************
+ * REGISTRATION FORM
+ ***********************************/
+
+#crmWebToEntityForm label {
+    display:inline;
+    font-weight:normal;
+}
+
+/***********************************
+ * FOOTER
+ ***********************************/
+.page-wrap {
+  min-height: 100%;
+  margin-bottom: -120px; 
+}
+
+.page-wrap:after {
+  content: "";
+  display: block;
+}
+
+.site-footer, .page-wrap:after {
+  height: 120px; 
+}
+
+.site-footer {
+    background: rgb(214, 213, 213);
+    background: rgba(214, 213, 213, .5);
+    font-size: .8em;
+}
+
+.site-footer > .container {
+    padding-top: 15px;
+}
+
+.panel-inverse {
+    margin-bottom: 0;
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, .5);
+    color: white;
+}
+
+.panel-inverse a {
+    color: white;
+    text-decoration: underline;
+}
+
+.panel-inverse a:hover {
+    text-decoration: none;
+    background: white;
+    color: rgb(0, 0, 0);
+    color: rgba(0, 0, 0, .5);
+}
+.panel-inverse > div > ul, .panel-inverse > div > p {
+    margin-bottom: 0;
+}
+/************************************
+* COMMUNITY
+************************************/
+.jumbotron.community {
+    min-height: 150px;
+    position: relative;
+    padding: 30px;
+    padding-bottom: 20px;
+}
+.github-img {
+    position: absolute; 
+    top: 0; 
+    right: 0; 
+    border: 0;
+} 
+.github-text {
+    padding-right: 70px;
+}
+.mailing-list {
+    margin-top: 10px;
+}
+
+/***********************************
+ * MEDIA
+ ***********************************/
+@media (max-width: 1200px) {
+}
+
+@media (max-width: 992px) { 
+    .navbar-collapse.collapse > a {
+        font-size: 14px;
+    }
+    .block > .iconic {
+        font-size: 14px;
+        overflow: hidden;
+    }
+    .iconic-button {
+        display: none
+    }
+    .iconic > img {
+        height: 100px;
+    }
+}
+
+@media (max-width: 768px) { 
+    .navbar > .container {
+        padding-bottom: 20px;
+    }
+    .block > .iconic {
+        height: auto;
+        min-height: inherit;
+    }
+    .block > .iconic-text {
+        line-height: 1.25;
+        height: 100px;
+    }
+    .col-xs-4 {
+        margin: 0;
+        padding: 0;
+    }
+    .page-wrap {
+        margin-bottom: -150px; 
+    }
+
+    .site-footer, .page-wrap:after {
+        height: 150px; 
+    }
+}
+
+
+@media (max-width: 470px) { 
+    body {
+        font-size: 14px;
+    }
+    .iconic > img {
+        height: 75px;
+    }
+    .block > .iconic-text {
+        font-size: 12px;
+        height: 75px;
+    }
+}

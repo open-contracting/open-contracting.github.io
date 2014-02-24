@@ -1,28 +1,40 @@
 ---
-layout: default
-title: Open Contracting Data Standards
+layout: home
+title: Welcome to the Open Contracting Data Standard Project
 ---
+The Open Contracting Data Standard (OCDS) project started in 2014. We are working on:
+
+**Standard Development**
+
+Working with data publishers and data users to build a standard that can meet their needs. Making technical choices to support classification and re-use of data.
+
+**Tools**
+
+Building tools to support the data standard. To support adoption of the standard we need an ecosystem of tools that help publishers publish and users use the data.
+
+**Governance**
+
+A standard needs open participation and governance, a transparent approach to clearly defining how and what is in the standard. We will be building a governance structure during 2014.
+
+**Advocacy & Support**
+
+Advocating for standard adoption and implementation. Increasing public awareness of open contracting and the benefits of a data standard.
 
 
-# Open Contracting Data Standards
+###What is Open Contracting?
+Governments around the world spend an estimated US $9.5 trillion every single year through contracts. But, contracting information is often unavailable for public scrutiny. The Open Contracting Partnership is promoting disclosure and participation in public contracting. It covers the whole contracting chain from planning to finalization, including tendering and performance. It includes all contract types, from basic contracts for the procurement of goods to complex extraction contracts. You can find out more about Open Contracting at the [Open Contracting Partnership's website](http://www.open-contracting.org/home-v1)
 
-The [Open Contracting Partnership](http://www.open-contracting.org/) is committed to developing and encouraging uptake of [technical standards for disclosure of public contracts](http://www.open-contracting.org/open_contracting_data_standards) and to building capacities for collecting, publishing, storing, accessing and sharing contract data. You can find out more about the full work of the Open Contracting project at [www.open-contracting.org](http://www.open-contracting.org).
+###Why a data standard?
+At the moment, many public bodies are publishing their contract data, or parts of their data. But that data is often incompatible with other similar data, locked away in a custom system/interface. And then there are many bodies who do not publish any data at all.
 
-## Data Standard
-The Open Contracting Partnership is working towards making contracting information more useful and accessible. As part of a broader programme of work,  we believe that the creation of a usable and flexible Open Contracting Data standard will ensure that, as the campaign for Open Contracting gathers pace, partners across the world can gain access to joined up data, supported by an ecosystem of tools and services, rather than facing many silos of disjointed contracting data. An Open Contracting data standard will enable users to better ‘follow the money’ - bringing together data from many sectors including aid, extractives, land, construction, and spending.
+A data standard has many benefits:
 
-## Approach
-This project aims to deliver a prototype Open Contracting Data Standard with sector-specific extensions (land and extractives) that build upon existing standards work and draws lessons from those experiences. The development of an Open Contracting standard will involve many aspects including:
+* It supports data publishers, by enabling the re-use and sharing of tools to publish data
+* It supports data publishers, by providing focus on the key fields that are necessary for providing an open &  transparent process
+* It enables standardization of common themes in contracting, reducing duplication of efforts in classification and categorization
+* It enables comparison of data between publishers and over time
 
-* technical design and governance;
-* demand and supply scoping;
-* advocacy for standard adoption and implementation;
-* increased public awareness through engagement activities;
-* facilitation of early prototypes of data use; and
-* capacity support for both publishers and users of data.
+###Who are we?
+The OCDS project [was announced](http://www.webfoundation.org/2014/01/web-foundation-to-develop-first-ever-open-contracting-data-standard/) on January 21, 2014 as a collaboration of the [Open Contracting Partnership](http://www.open-contracting.org/home-v1) and the [World Wide Web Foundation (Web Foundation)](http://www.webfoundation.org), supported by a grant from [Omidyar Network](http://www.omidyar.com/) to deliver a v1.0 of the standard by the end of 2014.
 
-## Get involved 
-
-You can register your interest in being involved in the standard Stakeholder and Technical Advisory Group here.
-
-<a href="/contribute/register.html" class="btn btn-primary btn-lg active" role="button">Join us!</a>
+For the Open Contracting Data Standard to be successful, we need to build a diverse and sustainable community. As such all the work of the OCDS project will be open and transparent and we hope you will [join us](pages/community.html)!

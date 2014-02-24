@@ -1,3 +1,9 @@
+---
+layout: single
+group: workshop-2014-01-montreal
+title: Governance
+date: 31/1/2014
+---
 * clear decision making body, small, dynamic seperate from the technical (was not there in IATI and was a problem)
 * multi-stakeholder involvement through technical groups at the beginning build the formal structures later
 * you could work on user cases, build standardm have implementation pilots and then build on those practical cases to build the governenace structure

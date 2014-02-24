@@ -1,4 +1,11 @@
+---
+layout: single
+group: workshop-2014-01-montreal
+title: Map of Actors
+date: 31/1/2014
+---
 Revenue side:
+
 * Leasing
 * Licensing
 * Royalties  - EITI, resourcecontracts.org
@@ -9,16 +16,20 @@ Revenue side:
 IPSAS
 
 Watchdogs:
+
 * National Audit Institute
 * INTOSAI
 * CSOs
 
 Budget:
+
 * Investment
 * Goods
 * Services - TBS
 * Grants - TBS, IPSAS, CRA
 * Admin (staff)
+
+Other:
 
 * Securities regulator IAS
 * UNCAC
