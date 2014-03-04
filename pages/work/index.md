@@ -24,6 +24,10 @@ tools.
 We would really appreciate suggestions from the community, be it publishers, data users, or other stakeholders
 about tools that would be useful. Ping us on the [mailing list](/pages/community.html)! 
 
+### Current Tools
+
+* Open Data Comparison - for comparing the datasets already being published.  BETA server is [here](http://ocds.stage.aptivate.org/opendatacomparison).  Code is on [github](http://github.com/open-contracting/opendatacomparison).
+
 ## Governance
 We are actively trying to build our governance structure, please do join the [mailing list](/pages/community.html) if you
 are interested in participating. We will post further information as this project progresses.
