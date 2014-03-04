@@ -12,7 +12,7 @@ Thank you for your interest in the Open Contracting Data Standard (OCDS) project
 <form id="registrationForm" action='https://crm.zoho.com/crm/WebToContactForm' name="WebToContacts1045878000000072001" method='post' onsubmit='javascript:document.charset="UTF-8"; return checkMandatery()' accept-charset='UTF-8'><input type='text' style='display:none;'
 name='xnQsjsdp' value='nbTaFkcbHhZthYo@kRl79w$$'> <input type='hidden' name='zc_gad' id='zc_gad' value=''> <input type='text'style='display:none;' name='xmIwtLD' value='-l-VudcQfq5yZ3geGYDCbojTZJtZADoI'> <input type='text' style='display:none;' name='actionType' value='Q29udGFjdHM='>
 
-<input type='text' style='display:none;' name='returnURL' value='http://open-contracting.github.io/contribute/registration-done.html'><br>
+<input type='text' style='display:none;' name='returnURL' value='http://open-contracting.github.io/pages/register/registration-done.html'><br>
 
 <table border="0" cellspacing="0" cellpadding='6' width="600"style='background-color:white;color:black'>
 <tr>
