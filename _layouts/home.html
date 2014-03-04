@@ -28,11 +28,19 @@ layout: base
              </a>
         </div>
         <div class="col-xs-4 iconic-block">
-            <a href="/pages/notes/workshops/2014-01-Montreal/">
+            {% assign post = site.posts.first %}
+            <a href="{{ post.url }}">
                 <div class="panel block">
-                    <div class="panel-body iconic iconic-text">
-                        <p>Our first workshop on Open Contracting was held in conjunction with the IATI TAG meeting in Montreal, CA.
-                        We discussed use cases, ...</p>
+                    <div class="panel-body iconic">
+                        {% if post.image %}
+                        <img class="center-block" src="{{ post.image }}"/>
+                        {% elsif post.snippet %}
+                        <p>{{ post.snippet }}</p>
+                        {% elsif post.content %}
+                        <p>{{ post.content | strip_html | truncate: 130}}...</p>
+                        {% else %}
+                        <p>Read latest.</p>
+                        {% endif %}
                     </div>
                     <div class="panel-body iconic-button">
                         <button class="btn btn-primary btn-lg" role="button">Read latest</button>
