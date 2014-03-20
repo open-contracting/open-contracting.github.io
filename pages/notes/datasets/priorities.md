@@ -3,105 +3,87 @@ layout: single
 title: Priorities
 date: 19/03/2014
 ---
-The priorities for datasets to review
+#### Prioritized list
+* Canada
+* Uruguay
+* Korea
+* Columbia
+* Philippines 
+* Moldova
+
+These all need:
+- to be split up into the specific datasets for examination
+- to be then given a detail level (poke / tickle / hug) - 
+- then to be prioritized
+
+e.g. 
+* Philippines - PhilGEPS - hug
+* Philippines - Open Data Portal - Procurement - poke
+* Colombia - eCOMPRA - tickle
+* Colombia - pte.gov.co - tickle
+
+Note - if we don't have enough information to do this, then the first task is probably for Ana to start making a list of the datasets available per country.
+
+
 
 #### Unprioritized list
-http://data.gov.in/
+Mentioned by Lindsey & Marcela:
 
-Cohort 2 - Developing Second OGP Action Plan:
+* India ([http://data.gov.in/](http://data.gov.in/])
+* NYC Checkbook
+* UK Contracts Finder (regular + planning)
+* Jamaica (example of planning data)
+* New Zealand (example of planning data)
+* 
 
-Albania
- 
-Armenia
- 
-Azerbaijan
- 
-Bulgaria
- 
-Canada
- 
-Chile
- 
-Colombia
- 
-Croatia
- 
-Czech Republic
- 
-Denmark
- 
-Dominican Republic
- 
-El Salvador
- 
-Estonia
- 
-Georgia
- 
-Greece
- 
-Guatemala
- 
-Honduras
- 
-Israel
- 
-Italy
- 
-Jordan
- 
-Kenya
- 
-Korea
- 
-Latvia
- 
-Lithuania
- 
-Macedonia
- 
-Malta
- 
-Moldova
- 
-Montenegro
- 
-Paraguay
- 
-Peru
- 
-Romania
- 
-Slovak Republic
- 
-Spain
- 
-Sweden
- 
-Tanzania
- 
-Turkey
- 
-Ukraine
- 
-Uruguay
+Developing Second OGP Action Plan:
 
-　
- 
-Cohort 4 - Developing First OGP Action Plan:
-
-Australia
- 
-Ireland
- 
-Malawi
- 
-Mongolia
- 
-New Zealand
- 
-Serbia
- 
-Sierra Leone
- 
-Trinidad and Tobago
+* Albania
+* Armenia
+* Azerbaijan     
+* Greece                                                                        
+* Guatemala                                                                     
+* Honduras                                                                      
+* Israel                                                                        
+* Italy                                                                         
+* Jordan                                                                        
+* Kenya                                                                         
+* Korea                                                                         
+* Latvia                                                                        
+* Lithuania                                                                     
+* Macedonia                                                                     
+* Malta                                                                         
+* Moldova                                                                       
+* Montenegro                                                                    
+* Paraguay                                                                      
+* Peru                                                                          
+* Romania                                                                       
+* Slovak Republic                                                               
+* Spain     
+* Bulgaria                                                                      
+* Canada - which ones - break out by dataset                                                                        
+* Chile                                                                         
+* Colombia                                                                      
+* Croatia                                                                       
+* Czech Republic                                                                
+* Denmark                                                                       
+* Dominican Republic                                                            
+* El Salvador                                                                   
+* Estonia                                                                       
+* Georgia                                                                       
+* Sweden                                                                        
+* Tanzania                                                                      
+* Turkey                                                                        
+* Ukraine                                                                       
+* Uruguay                                                                       
+　                                                                              
+Developing First OGP Action Plan:                                    
+                                                                                
+* Australia                                                                     
+* Ireland                                                                       
+* Malawi                                                                        
+* Mongolia                                                                      
+* New Zealand                                                                   
+* Serbia                                                                        
+* Sierra Leone                                                                  
+* Trinidad and Tobago 
