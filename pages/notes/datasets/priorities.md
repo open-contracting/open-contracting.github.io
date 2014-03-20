@@ -17,10 +17,11 @@ These all need:
 - then to be prioritized
 
 e.g. 
-* Philippines - PhilGEPS - hug
-* Philippines - Open Data Portal - Procurement - poke
-* Colombia - eCOMPRA - tickle
-* Colombia - pte.gov.co - tickle
+
+1. Philippines - PhilGEPS - hug
+1. Philippines - Open Data Portal - Procurement - poke
+1. Colombia - eCOMPRA - tickle
+1. Colombia - pte.gov.co - tickle
 
 Note - if we don't have enough information to do this, then the first task is probably for Ana to start making a list of the datasets available per country.
 
