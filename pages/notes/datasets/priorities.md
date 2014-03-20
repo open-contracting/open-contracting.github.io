@@ -34,7 +34,6 @@ Mentioned by Lindsey & Marcela:
 * UK Contracts Finder (regular + planning)
 * Jamaica (example of planning data)
 * New Zealand (example of planning data)
-* 
 
 Developing Second OGP Action Plan:
 
@@ -75,10 +74,11 @@ Developing Second OGP Action Plan:
 * Tanzania                                                                      
 * Turkey                                                                        
 * Ukraine                                                                       
-* Uruguay                                                                       
-　                                                                              
-Developing First OGP Action Plan:                                    
-                                                                                
+* Uruguay
+
+
+Developing First OGP Action Plan:
+
 * Australia                                                                     
 * Ireland                                                                       
 * Malawi                                                                        
