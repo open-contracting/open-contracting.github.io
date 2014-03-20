@@ -13,7 +13,7 @@ date: 19/03/2014
 
 These all need:
 - to be split up into the specific datasets for examination
-- to be then given a detail level (poke / tickle / hug) - 
+- to be then given a detail level (poke / tickle / hug) - [review types](/pages/notes/datasets/review_types.html)
 - then to be prioritized
 
 e.g. 
