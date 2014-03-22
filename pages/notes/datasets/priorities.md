@@ -7,7 +7,7 @@ date: 19/03/2014
 * Canada
 * Uruguay
 * Korea
-* Columbia
+* Colombia
 * Philippines 
 * Moldova
 
