@@ -7,9 +7,14 @@ date: 19/03/2014
 * Canada
 * Uruguay
 * Korea
-* Colombia
 * Philippines 
 * Moldova
+* Mexico
+* NYC Checkbook
+* UK Contracts Finder (regular + planning)
+* Costa Rica (hold for now)
+* Colombia (just document links)
+* Peru
 
 These all need:
 
@@ -33,8 +38,8 @@ Note - if we don't have enough information to do this, then the first task is pr
 Mentioned by Lindsey & Marcela:
 
 * India - [http://data.gov.in/](http://data.gov.in/])
-* NYC Checkbook
-* UK Contracts Finder (regular + planning)
+
+
 * Jamaica (example of planning data)
 * New Zealand (example of planning data)
 
