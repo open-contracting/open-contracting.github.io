@@ -14,7 +14,7 @@ There are three types of possible review, which are documented [here](review_typ
 
 The prioritized list of datasets for review including which type of review are [here](priorities.html).
 
-The progress against this list is in this [hackpad](https://opencontractingdata.hackpad.com/Dataset-Review-progress-CtdgQB5aLrA) (needs organizing)
+The progress against this list is in this [hackpad](https://opencontractingdata.hackpad.com/Dataset-Review-progress-CtdgQB5aLrA) (needs organizing).
 
 ### Building a datamap
 Part of the supply side analysis is to *understand* what fields publishers are already publishing. We are documenting the fields with the following goals in mind:
