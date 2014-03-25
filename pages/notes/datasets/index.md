@@ -10,9 +10,9 @@ we can accomodate them.
 We are reviewing as many as we can as part of our "supply side" analysis of 
 open contracting data.
 
-There are three types of possible review, which are documented [here](review_types.html)
+There are three types of possible review, which are documented [here](review_types.html).
 
-The prioritized list of datasets for review including which type of review are [here](priorities.html)
+The prioritized list of datasets for review including which type of review are [here](priorities.html).
 
 The progress against this list is in this [hackpad](https://opencontractingdata.hackpad.com/Dataset-Review-progress-CtdgQB5aLrA) (needs organizing)
 
