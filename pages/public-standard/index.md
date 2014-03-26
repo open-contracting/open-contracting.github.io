@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: annotate
 title: TestData
 date: 23/02/2014
 ---
