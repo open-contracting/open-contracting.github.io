@@ -6,7 +6,7 @@ date: 23/02/2014
 ## Standard
 
 ### Supply side analysis (aka Data diving)
-During Februaruy & March we are compiling a list of Open Contracting Data to understand
+During February & March we are compiling a list of Open Contracting Data to understand
 the current supply of data available. **[Read more](/pages/notes/datasets/)**. 
 
 In 2013, we did an [initial sprint](/pages/notes/firstsprint.html) of work looking at some existing open contracting 
