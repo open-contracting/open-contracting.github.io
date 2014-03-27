@@ -18,7 +18,7 @@ However, different organizations/publishers will use other naming properties for
 1. Planning = budgeting 
 1. Bid = tender
 1. Award
-1. Performance = disbursement, 
+1. Performance = disbursement, spending
 1. Termination
 1. Document
 
