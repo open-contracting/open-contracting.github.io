@@ -6,11 +6,11 @@ date: 27/03/2014
 
 There are 6 formal OCDS phases in data for public procurement. 
 1. Planning   
-1. Bid
-1. Award
-1. Performance 
-1. Termination
-1. Document
+2. Bid
+3. Award
+4. Performance 
+5. Termination
+6. Document
 
 However, different organizations/publishers will use other naming properties for the same phases. This page is created to provide existing alternative dataset names.   
 
