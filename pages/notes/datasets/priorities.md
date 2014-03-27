@@ -16,9 +16,11 @@ date: 19/03/2014
 * Colombia (just document links)
 * Peru
 * Georgia
+* Chile
+* Brazil
+
 
 These all need:
-
 - to be split up into the specific datasets for examination
 - to be then given a detail level (poke / tickle / hug) - [review types](/pages/notes/datasets/review_types.html)
 - then to be prioritized
