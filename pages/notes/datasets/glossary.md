@@ -4,13 +4,24 @@ title: Glossary
 date: 27/03/2014
 ---
 
-Phases:
+There are 6 formal OCDS phases listed below as data for public procurement. However, different organizations/publishers will use other naming properties for the same phases. This page is created to provide existing alternative dataset names.   
 
-1. Meta/Planning = Budget  
+1. Planning   
 1. Bid
 1. Award
-1. Performance = Spending
+1. Performance 
 1. Termination
 1. Document
 
 Contracts = all phases 
+
+1. Planning = budgeting 
+1. Bid = tender
+1. Award
+1. Performance = disbursement, 
+1. Termination
+1. Document
+
+There are also contracts for:
+1. Extractives - Extractives contracts - oil, gas & mining
+1. Land - Land contracts
