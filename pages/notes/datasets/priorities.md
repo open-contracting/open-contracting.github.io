@@ -12,7 +12,7 @@ date: 19/03/2014
 * Mexico
 * NYC Checkbook
 * UK Contracts Finder (regular + planning)
-* Costa Rica (hold for now)
+* Costa Rica
 * Colombia (just document links)
 * Peru
 * Georgia
