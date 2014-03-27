@@ -5,6 +5,7 @@ date: 27/03/2014
 ---
 
 There are 6 formal OCDS phases in data for public procurement. 
+
 1. Planning   
 2. Bid
 3. Award
