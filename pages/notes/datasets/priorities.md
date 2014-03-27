@@ -15,6 +15,7 @@ date: 19/03/2014
 * Costa Rica (hold for now)
 * Colombia (just document links)
 * Peru
+* Georgia
 
 These all need:
 
