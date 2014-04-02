@@ -25,3 +25,39 @@ Part of the supply side analysis is to *understand* what fields publishers are a
 * We need to follow a contract through its phases. Many publishers release datasets about the different phases seperately. e.g. the tender data is distributed seperately to the award data. We need to document if and how a contract is traceable from one phase to the next. **Goal 4** Document traceability through phases
 * In creating a landscape where we identify common fields across multiple datasets, we are a step closer to having data be interoperable. We know that in the not to distant future we will want to attempt to convert some existing datasets into the new OC data standard so we can record mapping that will help that **Goal 5** Facilitate data conversion between existing datasets.
 * Accomodate new contracts as we encounter them. In our attempt to build a landscape we need to incorporate different kinds of contracts e.g. framework contracts, land, extractives etc. **Goal 6** Our landscape should be able to document and capture new variations as we uncover them.
+
+### Datamap Concepts
+* Planning (catch all just one for now)
+* Tender
+ * Awarding entity
+ * Receving entity
+ * Goods / services (need a better name for this?)
+ * Budget
+ * Documents
+ * Other
+ * Unique identifiers
+ * Linking identifiers
+* Awards
+ * Awarding entity
+ * Receving entity
+ * Goods / services (need a better name for this?)
+ * Contract Value
+ * Contracted entity (entity that won the contract)
+ * Documents
+ * Other
+ * Unique identifiers
+ * Linking identifiers
+* Performance
+ * Payment from
+ * Payment to
+ * Transaction Value
+ * Milestone
+ * Other
+ * Unique identifiers
+ * Linking identifiers
+* Close
+ * Status
+ * Final value
+ * Other
+ * Unique identifiers
+ * Linking identifiers
