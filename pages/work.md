@@ -6,8 +6,9 @@ date: 23/02/2014
 ## Standard
 
 ### Supply side analysis (aka Data diving)
-During February & March we are compiling a list of Open Contracting Data to understand
-the current supply of data available. **[Read more](/pages/notes/datasets/)**. 
+**[Montreal sprint](/pages/notes/workshops/2014-04-Montreal)** - We will be sprinting in Montreal with the PyCon sprints. We have projects for all skill sets -  data geeks, developers, designers, machine learning specialists, librarians - we got it all. 
+
+**[Building a data landscape](/pages/notes/datasets)** - We are compiling a list of Open Contracting Data to understand the current supply of data available, and categorizing it to build a data landscape.
 
 In 2013, we did an [initial sprint](/pages/notes/firstsprint.html) of work looking at some existing open contracting 
 data and identifying common themes among it.
