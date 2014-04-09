@@ -3,7 +3,8 @@ layout: single
 title: Montreal Sprint
 date: 08/04/2014
 ---
-Dates: April 14 - 17th
+Dates: April 14-17, 2014
+
 Venue: Palais des congrès de Montréal - [https://us.pycon.org/2014/venue/](https://us.pycon.org/2014/venue/) (Montreal, Canada)
 
 ## Background
