@@ -3,7 +3,7 @@ layout: single
 title: Montreal Sprint
 date: 08/04/2014
 ---
-Dates: April 14-17, 2014
+Dates: April 14-17, 2014 (9am - when we go to sleep!)
 
 Venue:  518A-C, 519A/B, 520A-F and 524A-C on the 5th level of the Convention Center. Palais des congrès de Montréal - [https://us.pycon.org/2014/venue/](https://us.pycon.org/2014/venue/) (Montreal, Canada)
 
