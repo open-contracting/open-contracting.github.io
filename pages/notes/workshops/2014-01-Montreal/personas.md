@@ -11,7 +11,7 @@ Personal profiles help us to consider the constraints that potential users of Op
 
 ----
 
-## Ran Tameng, Marketing Manager
+## Ran Tameng, Marketing Manager(#RanTameng)
 [Original](/assets/images/2014-01-Montreal/IMG_6269.JPG)
 <div class="well">
 Ran Tameng is a marketing manager and contractor in Nepal. He is 33 years old. He runs a 50 person company building roads. He is seeking new business by reading tenders, driving around, and reading the papers. He uses a mobile phone and is well networked. He is highly competitive, and very busy. He has an assistant to help him out because he is always short of time. 
@@ -33,7 +33,7 @@ Nepal Public Contracts Portal - [mockup](/assets/images/2014-01-Montreal/IMG_626
 
 ----
 
-## Andrew Smith, Market Reseach Analyst at Barclays
+## Andrew Smith, Market Reseach Analyst at Barclays(#AndrewSmith)
 <div class="well">
 Andrew is 42, he is based in London and graduated in economics. He is doing market research in extractives.
 </div>
@@ -69,7 +69,7 @@ Andrew is 42, he is based in London and graduated in economics. He is doing mark
 
 ----
 
-## Claire Smith, Founder of Design & Communications SME
+## Claire Smith, Founder of Design & Communications SME(#ClaireSmith)
 <div class="well">
 Claire is 45, she started her own company 10 years ago after having children. She is based in Montreal. She's very on top of trends in web & design. She is used to dealing with the private sector - she enjoys the dynamism.  She believes the bids are pre-determined. She has no trust in the system. She is not sure if government contracting is a good opportunity for her business or not.
 </div>
@@ -84,7 +84,7 @@ Claire is 45, she started her own company 10 years ago after having children. Sh
 
 ----
 
-## Yuki, Program Manager in Rurual Transportation at the World Bank
+## Yuki, Program Manager in Rurual Transportation at the World Bank(#Yuki)
 <div class="well">
 Yuki is 48 and lives in DC with her husband and teenage children. She has an undergraduate degree in engineering. She has been at the bank for 10 years and before that she worked for JICA in road project managmenet. In her spare time she likes learning foreign languages , a passion she picked up while working in Swaziland with JICA.
 </div>
@@ -98,7 +98,7 @@ Yuki is 48 and lives in DC with her husband and teenage children. She has an und
 
 ----
 
-## Gloria, Head of Tax Payer Association in Malawi
+## Gloria, Head of Tax Payer Association in Malawi(#Gloria)
 [Original](/assets/images/2014-01-Montreal/personas_gloria.JPG)
 <div class="well">
 Gloria is the head of the Tax Payer ASsociation based in Blantyre, Malawi. She
@@ -121,7 +121,7 @@ children and a husband and used to work for the Ministry of Finance.
 
 ----
 
-## Ravi Shrestha, Owns small store
+## Ravi Shrestha, Owns small store(#RaviShrestha)
 [Original](/assets/images/2014-01-Montreal/personas_ravi.JPG)
 <div class="well">
 Ravi is 42, he owns a small store. He is happily married, with 2 daughters and living in the house since his birth and inherited from his parents. He has lost both his parents.
@@ -156,7 +156,7 @@ Citizen Alert:
 
 ----
 
-## Abraham 'Abe' Bayendala, Junior Procurement Officer, Department of Roads, Uganda
+## Abraham 'Abe' Bayendala, Junior Procurement Officer, Department of Roads, Uganda(#Abe)
 [Original](/assets/images/2014-01-Montreal/personas_abe.JPG)
 <div class="well">
 Abe is 32. He is a graduate from Makerere University. He was a civil engineer when he joined the Ministry. And he is currently doing a distance learning course
@@ -178,7 +178,7 @@ Findit / Useit - Smart contracts portal:
 
 ----
 
-## Alice, Investigative Journalist
+## Alice, Investigative Journalist(#Alice)
 [Original](/assets/images/2014-01-Montreal/personas_alice_1.JPG)
 <div class="well">
 Alice is 40. She is canadian, graduated from Concordia Jounalism school and covered several different beats throughout her career (city hall, police, etc.). She
