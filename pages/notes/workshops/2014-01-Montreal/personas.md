@@ -11,7 +11,7 @@ Personal profiles help us to consider the constraints that potential users of Op
 
 ----
 
-## Ran Tameng, Marketing Manager(#RanTameng)
+## [Ran Tameng, Marketing Manager](#RanTameng)
 [Original](/assets/images/2014-01-Montreal/IMG_6269.JPG)
 <div class="well">
 Ran Tameng is a marketing manager and contractor in Nepal. He is 33 years old. He runs a 50 person company building roads. He is seeking new business by reading tenders, driving around, and reading the papers. He uses a mobile phone and is well networked. He is highly competitive, and very busy. He has an assistant to help him out because he is always short of time. 
