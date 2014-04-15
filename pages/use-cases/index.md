@@ -38,7 +38,7 @@ Questions for Open Contracting user stories & use cases:
 
 <ul>
 {% for page in site.pages %}
-{% if page.type == 'usecase' %}
+{% if page.type == "usecase" %}
 <li><a href="{{ page.url }}">{{ page.title }}</a></li>
 {% endif %}   <!-- resource-p -->
 {% endfor % } <!-- page -->
