@@ -35,6 +35,6 @@ A data standard has many benefits:
 * It enables comparison of data between publishers and over time
 
 ###Who are we?
-The OCDS project [was announced](http://www.webfoundation.org/2014/01/web-foundation-to-develop-first-ever-open-contracting-data-standard/) on January 21, 2014 as a collaboration of the [Open Contracting Partnership](http://www.open-contracting.org/home-v1) and the [World Wide Web Foundation (Web Foundation)](http://www.webfoundation.org), supported by a grant from [Omidyar Network](http://www.omidyar.com/) to deliver a v1.0 of the standard by the end of 2014.
+The OCDS project [was announced](http://www.webfoundation.org/2014/01/web-foundation-to-develop-first-ever-open-contracting-data-standard/) on January 21, 2014 as a collaboration of the [Open Contracting Partnership](http://www.open-contracting.org/home-v1) and the [World Wide Web Foundation (Web Foundation)](http://www.webfoundation.org), supported by a grant from [Omidyar Network](http://www.omidyar.com/) and the [World Bank](http://www.worldbank.org) to deliver a v1.0 of the standard by the end of 2014.
 
 For the Open Contracting Data Standard to be successful, we need to build a diverse and sustainable community. As such all the work of the OCDS project will be open and transparent and we hope you will [join us](pages/community.html)!
