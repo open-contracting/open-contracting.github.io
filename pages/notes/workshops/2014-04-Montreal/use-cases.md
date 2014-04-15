@@ -37,7 +37,7 @@ Questions for Open Contracting user stories & use cases:
 
 # A draft Open Contracting User Story
 
-## Monitoring infrastructure building.
+## Monitoring infrastructure building(#infrastructure-building)
 
 ### Goals
 
