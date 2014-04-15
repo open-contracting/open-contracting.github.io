@@ -42,7 +42,7 @@ ToDo
 
 ## Related requirements: 
 
-* **Lifetime tracking**- ToDo - ID that connects budget, contract and cheque-book entries
+* **Lifetime tracking**- ID that connects budget, contract and cheque-book entries
 
 * **Line Items** - It should be possible to record line-items required by the contract, including using a controlled list of kinds of contract 
 
