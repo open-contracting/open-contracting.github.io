@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Monitoring Pubic Infrastructure Building
+title: Monitoring Public Infrastructure Building
 type: usecase
 status: draft
 ---
