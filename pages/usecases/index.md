@@ -37,7 +37,7 @@ There are a range of different methods for developing user stories and use cases
 <ul>
 {% for page in site.pages %}
 {% if page.type == "usecase" %}
-<li><a href="{{ page.url }}">{{ page.title }}</a></li>
+<li><a href="{{ page.url }}">{{ page.title }}</a> ({{ page.status }})</li>
 {% endif %}   <!-- resource-p -->
 {% endfor %} <!-- page -->
 </ul>
