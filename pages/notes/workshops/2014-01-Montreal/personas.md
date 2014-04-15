@@ -11,7 +11,7 @@ Personal profiles help us to consider the constraints that potential users of Op
 
 ----
 
-## [Ran Tameng, Marketing Manager](#Ran-Tameng)
+## [Ran Tameng, Marketing Manager](#ran-tameng)
 [Original](/assets/images/2014-01-Montreal/IMG_6269.JPG)
 <div class="well">
 Ran Tameng is a marketing manager and contractor in Nepal. He is 33 years old. He runs a 50 person company building roads. He is seeking new business by reading tenders, driving around, and reading the papers. He uses a mobile phone and is well networked. He is highly competitive, and very busy. He has an assistant to help him out because he is always short of time. 
@@ -69,7 +69,7 @@ Andrew is 42, he is based in London and graduated in economics. He is doing mark
 
 ----
 
-## [Claire Smith, Founder of Design & Communications SME](#Claire-Smith)
+## [Claire Smith, Founder of Design & Communications SME](#claire-smith)
 <div class="well">
 Claire is 45, she started her own company 10 years ago after having children. She is based in Montreal. She's very on top of trends in web & design. She is used to dealing with the private sector - she enjoys the dynamism.  She believes the bids are pre-determined. She has no trust in the system. She is not sure if government contracting is a good opportunity for her business or not.
 </div>
@@ -84,7 +84,7 @@ Claire is 45, she started her own company 10 years ago after having children. Sh
 
 ----
 
-## [Yuki, Program Manager in Rural Transportation at the World Bank](#Yuki-Rural)
+## [Yuki, Program Manager in Rural Transportation at the World Bank](#yuki-rural)
 <div class="well">
 Yuki is 48 and lives in DC with her husband and teenage children. She has an undergraduate degree in engineering. She has been at the bank for 10 years and before that she worked for JICA in road project managmenet. In her spare time she likes learning foreign languages , a passion she picked up while working in Swaziland with JICA.
 </div>
@@ -98,7 +98,7 @@ Yuki is 48 and lives in DC with her husband and teenage children. She has an und
 
 ----
 
-## [Gloria, Head of Tax Payer Association in Malawi](#Gloria-Head)
+## [Gloria, Head of Tax Payer Association in Malawi](#gloria-head)
 [Original](/assets/images/2014-01-Montreal/personas_gloria.JPG)
 <div class="well">
 Gloria is the head of the Tax Payer ASsociation based in Blantyre, Malawi. She
@@ -121,7 +121,7 @@ children and a husband and used to work for the Ministry of Finance.
 
 ----
 
-## [Ravi Shrestha, Owns small store](#Ravi-Shrestha)
+## [Ravi Shrestha, Owns small store](#ravi-shrestha)
 [Original](/assets/images/2014-01-Montreal/personas_ravi.JPG)
 <div class="well">
 Ravi is 42, he owns a small store. He is happily married, with 2 daughters and living in the house since his birth and inherited from his parents. He has lost both his parents.
