@@ -5,6 +5,8 @@ type: usecase
 status: template
 ---
 
+_You can use this [template](https://github.com/open-contracting/open-contracting.github.io/edit/master/pages/usecases/template.md) for creating your own user stories_
+
 ## Goals
 
 Summarise the main goals of this use case in one paragraph. Include:
