@@ -4,9 +4,6 @@ title: Developing User Stories and Use Cases
 date: 14/04/2014
 ---
 
-Developing user stories and use cases
-=============================
-
 _This is a draft document exploring different approaches to developing user stories and use cases for the OCDS project. It is being actively developed over the course of the Montreal Development Sprints at pyCon. You can edit and suggest changes from the link at the bottom of the page._
 
 # Background
