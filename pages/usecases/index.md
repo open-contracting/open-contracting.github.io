@@ -37,9 +37,6 @@ Questions for Open Contracting user stories & use cases:
 # Draft Open Contracting User Stories
 
 <ul>
-{% for page in site.pages %}
 
-<li><a href="{{ page.url }}">{{ page.title }}</a></li>
 
-{% endfor % } <!-- page -->
 </ul>
