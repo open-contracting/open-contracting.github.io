@@ -32,7 +32,7 @@ The road built through this contract breaks up much quicker than other roads by 
 
 * As an elected official, if I can see information on the tender, and final realisation, of a contract, I can know where to investigate for more information - but if I only know about one end of the process (start or end) it is hard to know where to look.
 
-## Related persona profiles:**
+## Related persona profiles:
 
 [Ravi Shrestha](http://open-contracting.github.io/pages/notes/workshops/2014-01-Montreal/personas.html#ravi-shrestha-owns-small-store)
 
