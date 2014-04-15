@@ -30,20 +30,20 @@ The Open Contrating Global Principles call for all the following sorts of inform
   * The scope and specifications for each contract;
   * The criteria for evaluation and selection;
   * The bidders or participants in the process, their validation documents, and any procedural exemptions for which they qualify;
-* Any conflicts of interest uncovered or debarments issued;
-* The results of the evaluation, including the justification for the award; and
-* The identity of the contract recipient and any statements of beneficial ownership provided;
+  * Any conflicts of interest uncovered or debarments issued;
+  * The results of the evaluation, including the justification for the award; and
+  * The identity of the contract recipient and any statements of beneficial ownership provided;
 4.  Information related to performance and completion of public contracts, including information regarding subcontracting arrangements, such as:
-* General schedules, including major milestones in execution, and any changes thereto;
-* Status of implementation against milestones;
-* Dates and amounts of stage payments made or received (against total amount) and the source of those payments;
-* Service delivery and pricing;
-* Arrangements for ending contracts;
-* Final settlements and responsibilities;
-* Risk assessments, including environmental and social impact assessments;
-* Assessments of assets and liabilities of government related to the contract;
-* Provisions in place to ensure appropriate management of ongoing risks and liabilities; and
-* Appropriate financial information regarding revenues and expenditures, such as time and cost overruns, if any.
+  * General schedules, including major milestones in execution, and any changes thereto;
+  * Status of implementation against milestones;
+  * Dates and amounts of stage payments made or received (against total amount) and the source of those payments;
+  * Service delivery and pricing;
+  * Arrangements for ending contracts;
+  * Final settlements and responsibilities;
+  * Risk assessments, including environmental and social impact assessments;
+  * Assessments of assets and liabilities of government related to the contract;
+  * Provisions in place to ensure appropriate management of ongoing risks and liabilities; and
+  * Appropriate financial information regarding revenues and expenditures, such as time and cost overruns, if any.
 
 ## User stories
 
