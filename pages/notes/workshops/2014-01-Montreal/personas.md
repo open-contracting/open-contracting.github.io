@@ -33,7 +33,7 @@ Nepal Public Contracts Portal - [mockup](/assets/images/2014-01-Montreal/IMG_626
 
 ----
 
-## [Andrew Smith, Market Reseach Analyst at Barclays](#Andrew-Smith)
+## [Andrew Smith, Market Reseach Analyst at Barclays](#andrew-smith)
 <div class="well">
 Andrew is 42, he is based in London and graduated in economics. He is doing market research in extractives.
 </div>
