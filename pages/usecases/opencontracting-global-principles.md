@@ -25,11 +25,11 @@ The Open Contrating Global Principles call for all the following sorts of inform
 1. Contracts, including licenses, concessions, permits, grants or any other document exchanging public goods,  assets, or resources (including all annexes, schedules and documents incorporated by reference) and any amendments thereto;
 2. Related pre-studies, bid documents, performance evaluations, guarantees, and auditing reports.  
 3. Information concerning contract formation, including: 
-* The planning process of the procurement;
-* The method of procurement or award and the justification thereof;
-* The scope and specifications for each contract;
-* The criteria for evaluation and selection;
-* The bidders or participants in the process, their validation documents, and any procedural exemptions for which they qualify;
+  * The planning process of the procurement;
+  * The method of procurement or award and the justification thereof;
+  * The scope and specifications for each contract;
+  * The criteria for evaluation and selection;
+  * The bidders or participants in the process, their validation documents, and any procedural exemptions for which they qualify;
 * Any conflicts of interest uncovered or debarments issued;
 * The results of the evaluation, including the justification for the award; and
 * The identity of the contract recipient and any statements of beneficial ownership provided;
