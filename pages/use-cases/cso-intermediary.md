@@ -1,7 +1,6 @@
 ---
 layout: single
-title: Monitoring Use Cases
-date: 14/04/2014
+title: CSO Use Case
 type: usecase
 status: stub
 ---
