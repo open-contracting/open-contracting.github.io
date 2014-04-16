@@ -23,6 +23,10 @@ title: User Stories and use cases
     width:100%;
 }
 
+button {
+    margin-top:5px;
+}
+
 
 --></style>
 
@@ -119,7 +123,7 @@ title: User Stories and use cases
                 We'll be analysing user stories and sharing the results on our website and mailing list. You can keep in touch with the development of the standard by <a href="https://groups.google.com/a/webfoundation.org/forum/#!forum/public-ocds">joining our mailing list</a>, or if you only want occasional updates, <a href="http://open-contracting.github.io/pages/register/">register here</a>.
             </p> 
             <p>
-                Have you got another story to share? Refresh this page to share another. 
+                Have you got another story to share? <a href="/pages/usecases/shareyours.html">Refresh this page</a> to share another. 
 
       </div>
       
@@ -142,7 +146,7 @@ title: User Stories and use cases
                $("#userStory").slideUp();
                $("#moreDetails").slideDown();
                if($("#agent").val()) { $("#agentText").text(" a " + $("#agent").val()); }
-               if($("#action").val()) { $("#actionText").text(" " + $("#action").val()); }
+              // if($("#action").val()) { $("#actionText").text(" " + $("#action").val()); }
            });
 
             $("#backToStart").click(function(event) { 
