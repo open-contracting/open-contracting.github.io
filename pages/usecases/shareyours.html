@@ -6,7 +6,7 @@ title: User Stories and use cases
 <style><!--
 .consultationForm {
     line-height:150%;
-    height:250px;
+    min-height:250px;
 }
 
 .consultationForm input {
@@ -128,7 +128,14 @@ title: User Stories and use cases
 
 
       <script><!--
-          $(function() {
+      
+      function defer(method) {
+          if (window.$)
+              method();
+          else
+              setTimeout(function() { defer(method) }, 50);
+      }
+          defer(function() {
            $(".extraData").hide();
            $("#shareStory").click(function(event) { 
                event.preventDefault();
