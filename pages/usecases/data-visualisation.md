@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Template
+title: Visualisation of data
 type: usecase
 status: stub
 ---
