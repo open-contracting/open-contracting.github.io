@@ -1,191 +1,202 @@
 ---
 layout: single
-title: User Stories and use cases
+title: Share your open contracting user stories...
 ---
-
 <style><!--
-.consultationForm {
-    line-height:150%;
-    min-height:250px;
-}
+   .consultationForm {
+       line-height:150%;
+       min-height:250px;
+   }
 
-.consultationForm input {
-    margin-top:10px;
-}
+   .consultationForm input {
+       margin-top:10px;
+   }
 
-.consultationColumn {
-    width:25%;
-    float:left;
-}
+   .consultationColumn {
+       width:25%;
+       float:left;
+   }
 
-.consultationColContainer {
-    clear:both;
-    width:100%;
-}
+   .consultationColContainer {
+       clear:both;
+       width:100%;
+   }
 
-button {
-    margin-top:5px;
-}
+   button {
+       margin-top:5px;
+   }
+   
+   textarea {
+       margin-top: 5px;
+   }
 
 
---></style>
+   --></style>
 
-<h2>How could you use information about public contracting?</h2>
 
-    <form action="http://forms.opendataresearch.org/process.php" id="consultationForm" method="post">
-      <input type="hidden" name="form_tools_form_id" value="2" />
-      
-      <div id="userStory" class="consultationForm">
-        <p>
-            There are many different ways in which information on public contracts might be useful. User stories are simply ways of describing these. We are inviting you to share your user story: How do you, or groups and individuals you know, want to use public contracting information and data. 
-         </p>
-         <p>
-            The details you provide here will be used to identify the priorities for the early drafts of the Open Contracting Data Standard, and will be used to construct detailed requirements. 
-         </p>
-         <p>
-             Start by completing the sentence below...
-         </p>
-          
-         As a <input type="text" name="agent" id="agent" placeholder="agent"/> I want to <input type="text" size="60" id="action" name="action" placeholder="action"/> so that <input type="text" size="50" name="goal" id="goal" placeholder="goal"/>
-         
-         <button class="btn btn-primary" id="shareStory">Share my user story</button>  
-         
-         <p></p>
-         <h3>Need an example?</h3>
-         <p>
-             Here are some example user stories to give you an idea of how to write one:
-         </p>
-         <ul>
-             <li>As an <i>elected official</i> I want to <i>be able to monitor the progress of a contract throughout it’s implementation</i> so that <i>I can check in how much budget has been spent at each stage of the contract, and so I can better scrutinise my department.</i></li>
-             <li>As a <i>citizen</i> I want to <i>know how much is being spent on public spaces in my local area</i> so that <i>I can engage in debates about leisure facilities</i></li>
-             <li>As a <i>business owner</i> I want to <i>know when new tenders are issued in my sector</i> so that <i>I can win more business with government.</i>
-                 
-         </ul>
-      </div>
-      
-      <div id="moreDetails" class="consultationForm extraData">
-          <button class="btn btn-primary" id="backToStart">&lt; &lt;</button> Can you tell us more about how <span id="agentText">this person</span> would <span id="actionText">do that</span> at the moment? 
-              <button class="btn btn-primary" id="tellUsMore"><strong>Yes - absolutely!</strong></button> <button class="btn btn-primary" id="submitEarly">No - just submit my user story</button><br/><br/>
-              
-          <p>
-          <textarea name="currentSituation" style="display:block;" placeholder="Describe the current situation here. Any details you are provide are useful to us." cols="70" rows="4" class="extraData"></textarea> 
-          </p>
-          
-          <button class="btn btn-primary extraData" id="nextToData">Next</button>
-      </div>
-      
-      <div id="dataRequirements" class="consultationForm extraData">
-         <button class="btn btn-primary" id="backToDetails">&lt; &lt;</button> What kinds of data would be needed for this to happen better in future?
-         
-         <div class="consultationColContainer">
+
+       <form action="http://forms.opendataresearch.org/process.php" id="consultationForm" method="post">
+         <input type="hidden" name="form_tools_form_id" value="3" />
+
+         <div id="userStory" class="consultationForm">
+           <p>
+               There are many different ways in which information on public contracts might be useful. User stories are simply ways of describing these. We are inviting you to share your user story. How do you, or groups and individuals you know, want to use public contracting information and data? 
+            </p>
+            <p>
+                Start by completing the sentence below...
+            </p>
+
+            As a <input type="text" name="agent" id="agent" placeholder="agent"/> I want to <textarea cols="60" rows="2" id="action" name="action" placeholder="action"></textarea><br/> so that <textarea cols="40" rows="2" name="goal" id="goal" placeholder="goal"></textarea>
+
+            <button class="btn btn-primary next" id="shareStory">Share my user story</button><br/><br/>
+            <p>
+               The details you provide here will be used to identify the priorities for the early drafts of the Open Contracting Data Standard, and will be used to construct detailed requirements. 
+            </p>
+            
+            <p></p>
+            <h3>Need an example?</h3>
+            <p>
+                Here are some example user stories to give you an idea of how to write one:
+            </p>
+            <ul>
+                <li>As an <i>elected official</i> I want to <i>be able to monitor the progress of a contract throughout it’s implementation</i> so that <i>I can check in how much budget has been spent at each stage of the contract, and so I can better scrutinise my department.</i></li>
+                <li>As a <i>citizen</i> I want to <i>know how much is being spent on public spaces in my local area</i> so that <i>I can engage in debates about leisure facilities</i></li>
+                <li>As a <i>business owner</i> I want to <i>know when new tenders are issued in my sector</i> so that <i>I can win more business with government.</i>
+
+            </ul>
+         </div>
+
+         <div id="moreDetails" class="consultationForm extraData">
+             <button class="btn btn-primary back" id="backToStart">&lt; &lt; (2/4)</button> Can you tell us more about how <span id="agentText">this person</span> would <span id="actionText">do that</span> at the moment? 
+               
+             <textarea name="currentSituation" style="display:block;" placeholder="Describe the current situation here. Any details you are provide are useful to us." cols="70" rows="4"></textarea> 
+             <em><small>Please describe as much as you can about how <span id="agentText">this person or organisation</span> can get access to information and data on contracts at the moment and the challenges they face</small></em>
+             </p>
+
+             <button class="btn btn-primary next" id="nextToData">Skip</button> | <button class="btn btn-primary next" id="nextToData"><strong>Next</strong></button> 
+         </div>
+
+         <div id="dataRequirements" class="consultationForm extraData">
+            <button class="btn btn-primary back" id="backToDetails">&lt; &lt; (3/4)</button> What kinds of data would be needed for this to happen better in future?
+
+            <div class="consultationColContainer">
+
+             <div class="consultationColumn">
+                 <span class="colTitle">About the planning</span><br/>
+                 <input type="checkbox" name="dataRequirements[]" value="value1" />Value 1<br />
+                 <input type="checkbox" name="dataRequirements[]" value="value2" />Value 2<br />
+                 <input type="checkbox" name="dataRequirements[]" value="value3" />Value 3<br />
+             </div>
+             <div class="consultationColumn">
+                 <span class="colTitle">About the tender</span><br/>
+                 <input type="checkbox" name="dataRequirements[]" value="value1" />Value 1<br />
+                 <input type="checkbox" name="dataRequirements[]" value="value2" />Value 2<br />
+                 <input type="checkbox" name="dataRequirements[]" value="value3" />Value 3<br />
+             </div>
+
+             <div class="consultationColumn">
+                 <span class="colTitle">About the contract</span><br/>
+                 <input type="checkbox" name="dataRequirements[]" value="value1" />Value 1<br />
+                 <input type="checkbox" name="dataRequirements[]" value="value2" />Value 2<br />
+                 <input type="checkbox" name="dataRequirements[]" value="value3" />Value 3<br />
+             </div>
+
+             <div class="consultationColumn">
+                 <span class="colTitle">About the evaluation</span><br/>
+                 <input type="checkbox" name="dataRequirements[]" value="value1" />Value 1<br />
+                 <input type="checkbox" name="dataRequirements[]" value="value2" />Value 2<br />
+                 <input type="checkbox" name="dataRequirements[]" value="value3" />Value 3<br />
+             </div>
+           </div>  
+
+             <button class="btn btn-primary next">Skip</button> | <button class="btn btn-primary next"><strong>Next</strong></button>
+         </div>
+
+          <div id="keepInTouch" class="consultationForm extraData">
+              <button class="btn btn-primary back" id="backToDetails">&lt; &lt; (4/4)</button> We would love to keep in touch with you as we develop the standard further. Drop in your details below if you are happy to hear from us now and then.
+              <p>
+                  Your Name: <input type="text" name="name" id="name"/><br/>
+                  Your E-mail: <input type="text" placeholder="youremail@yourdomain.com" size="40" name="email" id="email"/><br/>
+                  Can we share occasional updates with you about the Open Contracting Data Standard? <input type="checkbox" name="eMailUpdate" value="Yes" CHECKED/> Yes please!
+             </p>
+             <p>
+                 <small>Unless you join our discussion e-mail list as well we'll just send you a copy of our occasional newsletter
+             </p>
+             <p>
+                 <button class="btn btn-primary submit" id="finalSubmit">Submit</button>
+             </p>
              
-          <div class="consultationColumn">
-              <span class="colTitle">About the planning</span><br/>
-              <input type="checkbox" name="dataRequirements[]" value="value1" />Value 1<br />
-              <input type="checkbox" name="dataRequirements[]" value="value2" />Value 2<br />
-              <input type="checkbox" name="dataRequirements[]" value="value3" />Value 3<br />
           </div>
-          <div class="consultationColumn">
-              <span class="colTitle">About the tender</span><br/>
-              <input type="checkbox" name="dataRequirements[]" value="value1" />Value 1<br />
-              <input type="checkbox" name="dataRequirements[]" value="value2" />Value 2<br />
-              <input type="checkbox" name="dataRequirements[]" value="value3" />Value 3<br />
-          </div>
-          
-          <div class="consultationColumn">
-              <span class="colTitle">About the contract</span><br/>
-              <input type="checkbox" name="dataRequirements[]" value="value1" />Value 1<br />
-              <input type="checkbox" name="dataRequirements[]" value="value2" />Value 2<br />
-              <input type="checkbox" name="dataRequirements[]" value="value3" />Value 3<br />
-          </div>
-          
-          <div class="consultationColumn">
-              <span class="colTitle">About the evaluation</span><br/>
-              <input type="checkbox" name="dataRequirements[]" value="value1" />Value 1<br />
-              <input type="checkbox" name="dataRequirements[]" value="value2" />Value 2<br />
-              <input type="checkbox" name="dataRequirements[]" value="value3" />Value 3<br />
-          </div>
-        </div>  
-        
-          <button class="btn btn-primary" id="finalSubmit">This is it!</button> | <button class="btn btn-primary" id="finalDontKnow">I don't really know</button>
-      </div>
-      
-       <div id="keepInTouch" class="consultationForm extraData">
-           
-       </div>
-      
-      <div id="thanks" class="extraData">
-            <p>
-                Thank you for sharing your user story. 
-            </p>
-            <p>
-                <a href="https://twitter.com/intent/tweet?button_hashtag=OCDS&text=My%20OpenContracting%20user%20story" class="twitter-share-button" data-lang="en" data-url="http://open-contracting.github.io/pages/usecases/shareyours.html" id="twitterLink">Tweet</a>
 
-                 Tweet your story now and encourage others to share theirs. 
-            </p>
-            <p>
-                We'll be analysing user stories and sharing the results on our website and mailing list. You can keep in touch with the development of the standard by <a href="https://groups.google.com/a/webfoundation.org/forum/#!forum/public-ocds">joining our mailing list</a>, or if you only want occasional updates, <a href="http://open-contracting.github.io/pages/register/">register here</a>.
-            </p> 
-            <p>
-                Have you got another story to share? <a href="/pages/usecases/shareyours.html">Refresh this page</a> to share another. 
+         <div id="thanks" class="extraData">
+               <p>
+                   Thank you for sharing your user story. 
+               </p>
+               <p>
+                   <a href="https://twitter.com/intent/tweet?button_hashtag=OCDS&text=My%20%23%20OpenContracting%20user%20story:" class="twitter-share-button" data-lang="en" data-url="http://open-contracting.github.io/pages/usecases/shareyours.html" id="twitterLink">Tweet</a>
 
-      </div>
-      
-  </form>
+                    Tweet your story now and encourage others to share theirs. <span id="tweetText"></span>
+               </p>
+               <p>
+                   We'll be analysing user stories and sharing the results on our website and mailing list. If you want to get more involved in the development of the standard then <a href="https://groups.google.com/a/webfoundation.org/forum/#!forum/public-ocds">join our mailing list here</a>.
+               </p> 
+               <p>
+                   Have you got another story to share? <a href="/pages/usecases/shareyours.html">Refresh this page</a> to share another. 
+
+         </div>
+
+     </form>
 
 
 
-      <script><!--
-      
-      function defer(method) {
-          if (window.$)
-              method();
-          else
-              setTimeout(function() { defer(method) }, 50);
-      }
-          defer(function() {
-           $(".extraData").hide();
-           $("#shareStory").click(function(event) { 
-               event.preventDefault();
-               $("#userStory").slideUp();
-               $("#moreDetails").slideDown();
-               if($("#agent").val()) { $("#agentText").text(" a " + $("#agent").val()); }
-              // if($("#action").val()) { $("#actionText").text(" " + $("#action").val()); }
-           });
+         <script><!--
 
-            $("#backToStart").click(function(event) { 
-                event.preventDefault();
-                $("#userStory").slideDown();
-                $("#moreDetails").slideUp();
-          });
-          $("#backToDetails").click(function(event) { 
-                event.preventDefault();
-                $("#moreDetails").slideDown();
-                $("#dataRequirements").slideUp();
-          });
-
-          $("#tellUsMore").click(function(event) { 
-                event.preventDefault();
-                $("#moreDetails .extraData").slideDown();
-                $("#submitEarly").hide();
-                $("#tellUsMore").hide();
-          });
-
-           $("#nextToData").click(function(event) { 
-                    event.preventDefault();
-                    $("#dataRequirements").slideDown();
-                    $("#moreDetails").slideUp();
+         function defer(method) {
+             if (window.$)
+                 method();
+             else
+                 setTimeout(function() { defer(method) }, 50);
+         }
+             defer(function() {
+                 
+              $(".extraData").hide();
+              
+              $("button.next").click(function(event){
+                  event.preventDefault();
+                  $(this).closest("div").slideUp();
+                  $(this).closest("div").next(".consultationForm").slideDown();
               });
-
-          $("#finalSubmit, #finalDontKnow, #submitEarly").click(function(event) {
-              event.preventDefault();
-              $.post( 'http://forms.opendataresearch.org/process.php', $('#consultationForm').serialize(), function(data) {
-                  $(".consultationForm").slideUp()
-                  $("#twitterLink").attr("href",$("#twitterLink").attr("href")+" As a "+escape($("#agent").val()+" I want "+$("#action").val()))
-  !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
-                  $("#dataRequirements").slideUp()
-                  $("#thanks").slideDown()
-              })
-          });
-      });
-      --></script>
+              
+              $("button.back").click(function(event){
+                     event.preventDefault();
+                     $(this).closest("div").slideUp();
+                     $(this).closest("div").prev(".consultationForm").slideDown();
+              });
+                $("#shareStory").click(function(event) { 
+                     event.preventDefault();
+                     if($("#agent").val()) { $("#agentText").text(" a " + $("#agent").val()); }
+               });
+              
+               $("#submitEarly").click(function(event){
+                         event.preventDefault();
+                         $(this).closest("div").slideUp();
+                         $("#keepInTouch").slideDown();
+                  });
+              
+             $("#finalSubmit").click(function(event) {
+                 event.preventDefault();
+                 $.post( 'http://forms.opendataresearch.org/process.php', $('#consultationForm').serialize(), function(data) {
+                     $(".consultationForm").slideUp()
+                     
+                     //ToDo - suggest adding alert if tweet is too long...
+                     $("#twitterLink").attr("href",$("#twitterLink").attr("href")+"As a "+escape($("#agent").val()+" I want "+$("#action").val()))
+                     if(($("#agent").val()+" I want "+$("#action").val()).length > 100) {
+                         $("#tweetText").text("You might need to edit it down a little bit.")
+                     }
+     !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+                     $("#dataRequirements").slideUp()
+                     $("#thanks").slideDown()
+                 })
+             });
+         });
+         --></script>
