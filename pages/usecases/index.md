@@ -1,6 +1,7 @@
 ---
 layout: single
 title: User Stories and use cases
+redirect_from: /pages/notes/workshops/2014-04-Montreal/use-cases.html
 ---
 
 _This is a draft document exploring different approaches to developing user stories and use cases for the OCDS project. It is being actively developed over the course of the Montreal Development Sprints at pyCon. You can edit and suggest changes from the link at the bottom of the page._

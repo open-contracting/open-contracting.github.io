@@ -19,7 +19,7 @@ Governments keep contracting information in many different systems. Data is ofte
 
 Pre-tender information, and performance information, is very rarely published in any structured form in existing systems - and few systems link payment details to contract information.
 
-The Open Contrating Global Principles call for all the following sorts of information:
+The Open Contracting Global Principles call for all the following sorts of information:
 
 
 1. Contracts, including licenses, concessions, permits, grants or any other document exchanging public goods,  assets, or resources (including all annexes, schedules and documents incorporated by reference) and any amendments thereto;
@@ -47,10 +47,20 @@ The Open Contrating Global Principles call for all the following sorts of inform
 
 ## User stories
 
-* As an signatory to the Open Contrating Global Principles I would like a defined standard so that I can meet my obligations to publish key contract information.
+* As an signatory to the Open Contracting Global Principles I would like a defined standard so that I can meet my obligations to publish key contract information;
 
-* As a signature to the Open Contracting Global Principles I would like a set of tools and approaches so that I can connect up data from different stages of the contracting process
+* As a signatory to the Open Contracting Global Principles I would like a set of tools and approaches so that I can connect up data from different stages of the contracting process;
+
+* As a national government signatory to the Open Contracting Global Principles I would like a dashboard that can show me which departments, agencies and local authorities are complying the the disclosure requirements of the principles so that I can report on how well we are progressing to apply them right across the country;
+
+* As a citizen of a country that has signed the Open Contracting Global Principles I would like to be able to see at a glance how often the government is publishing details about _all_ stages of the contracting process so that I can check whether they are complying with the principles or not;
+
+* As a civil society organisation in a country that as signed the Open Contracting Global Principles I would like to be able to review how many high-value contracts did include elements of public participation so that I can compare whether levels of participation in the health sector where I work are higher or lower than in other sectors;
+
+* As a watchdog organisation in a country that has signed the Open Contracting Global Principles I would like to be able to give my judgement on whether particular contracting processes involved adequate citizen participation so that there is pressure upon government to improve the levels of participation;
+
 
 ## Requirements
 
-_Based on the user stories above we need to identify key requirements that data will need to meet for this user to be satisfied. Add a bulletted list._
+_Based on the user stories above we need to identify key requirements that data will need to meet for this user to be satisfied. Add a bulleted list._
+

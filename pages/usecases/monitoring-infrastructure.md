@@ -42,8 +42,16 @@ ToDo
 
 ## Related requirements: 
 
-* **Lifetime tracking**- ID that connects budget, contract and cheque-book entries
+* **Lifetime tracking** - there should be an identifier that can connects budget, contract and cheque-book entries.
 
-* **Line Items** - It should be possible to record line-items required by the contract, including using a controlled list of kinds of contract 
+* **Line Items** - It should be possible to record line-items required by the contract.
 
-* **Geographic Information System Linkage** - It should be possible to relate particular elements of a contract to entries in a Geographic Information System (either the internal authority system, or a public system such as Open Street Map
+* **Line Item Codes** - It should be possible to identify like-for-like line items across different contract datasets. 
+
+* **Cost comparison** - It should be possible to compare the cost of a contract in one location, with the cost of a comparable contract somewhere else.
+
+* **Structured quantity data** - For line-items it should be possible to compare quantities like-with-like. 
+
+* **Organisational Unit Information** - It should be possible to identify which part of a larger organisation (e.g. departments of public bodies) is responsible for a given contract. 
+
+* **Geographic Information System Linkage** - It should be possible to relate particular elements of a contract to entries in a Geographic Information System (either the internal authority system, or a public system such as Open Street Map).
