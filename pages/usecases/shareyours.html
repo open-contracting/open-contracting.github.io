@@ -71,17 +71,17 @@ title: Share your open contracting user stories...
          </div>
 
          <div id="moreDetails" class="consultationForm extraData">
-             <button class="btn btn-primary back" id="backToStart">&lt; &lt; (2/4)</button> Can you tell us more about how <span id="agentText">this person</span> would <span id="actionText">do that</span> at the moment? 
+             <button class="btn btn-primary back" id="backToStart">&lt; &lt; (2/4)</button> Can you tell us more about how <span class="agentText">this person</span> would <span id="actionText">do that</span> at the moment? 
                
              <textarea name="currentSituation" style="display:block;" placeholder="Describe the current situation here. Even brief details you can provide are useful to help us understand the challenges a data standard should address." cols="70" rows="4"></textarea> 
-             <em><small>Please describe as much as you can about how <span id="agentText">this person or organisation</span> can get access to information and data on contracts at the moment and the challenges they face</small></em>
-             </p>
+             <em><small>Please describe as much as you can about how <span class="agentText">this person or organisation</span> can get access to information and data on contracts at the moment and the challenges they face</small></em>
 
-             <button class="btn btn-primary next" id="nextToData">Skip</button> | <button class="btn btn-primary next" id="nextToData"><strong>Next</strong></button> 
+
+             <button class="btn btn-primary next">Skip</button> | <button class="btn btn-primary next"><strong>Next</strong></button> 
          </div>
 
          <div id="dataRequirements" class="consultationForm extraData">
-            <button class="btn btn-primary back" id="backToDetails">&lt; &lt; (3/4)</button> What kinds of data are most important for this to happen better in future?
+            <button class="btn btn-primary back">&lt; &lt; (3/4)</button> What kinds of data are most important for this to happen better in future?
 
             <div class="consultationColContainer">
 
@@ -124,14 +124,14 @@ title: Share your open contracting user stories...
          </div>
 
           <div id="keepInTouch" class="consultationForm extraData">
-              <button class="btn btn-primary back" id="backToDetails">&lt; &lt; (4/4)</button> We would love to keep in touch with you as we develop the standard further. Drop in your details below if you are happy to hear from us now and then. This is optional.
+              <button class="btn btn-primary back">&lt; &lt; (4/4)</button> We would love to keep in touch with you as we develop the standard further. Drop in your details below if you are happy to hear from us now and then. This is optional.
               <p>
                   Your Name: <input type="text" name="name" id="name"/><br/>
                   Your E-mail: <input type="text" placeholder="youremail@yourdomain.com" size="40" name="email" id="email"/><br/>
                   <label><input type="checkbox" name="eMailUpdate" value="Yes"/>  Tick here if we can share occasional updates with you about the Open Contracting Data Standard?</label>
              </p>
              <p>
-                 <small>Unless you join our discussion e-mail list as well we'll just send you a copy of our occasional newsletter.
+                 <small>Unless you join our discussion e-mail list as well we'll just send you a copy of our occasional newsletter.</small>
              </p>
              <p>
                  <button class="btn btn-primary submit" id="finalSubmit">Submit</button>
@@ -190,7 +190,7 @@ title: Share your open contracting user stories...
               });
                 $("#shareStory").click(function(event) { 
                      event.preventDefault();
-                     if($("#agent").val()) { $("#agentText").text(" a " + $("#agent").val()); }
+                     if($("#agent").val()) { $(".agentText").text(" a " + $("#agent").val()); }
                });
               
                $("#submitEarly").click(function(event){
