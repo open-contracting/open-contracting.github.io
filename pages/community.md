@@ -19,8 +19,8 @@ title: Community
     </div>
     <div class="col-md-4">
         <div class="jumbotron community">
-            <img src="/assets/design/Twitter_logo_blue.png"/>
-            <p class='pull-right'><a href="https://twitter.com/hashtag/opencontractingdata">#opencontractingdata</a></p>
+            <img src="/assets/design/Twitter_logo_blue.png" style="float:left;"/>
+            <p class='pull-right'>Follow us on twitter<br/><a href="https://twitter.com/ocdata">@ocdata</a><br/><a href="https://twitter.com/hashtag/opencontractingdata">#opencontractingdata</a></p>
         </div>
     </div>
 </div>
@@ -38,7 +38,7 @@ tool, or tell us about your existing tool - we don't want to duplicate good work
 All our code is hosted on [github](http://www.github.com/open-contracting)
 
 ### Tweet
-Use our hashtag [#opencontractingdata](https://twitter.com/hashtag/opencontractingdata) when tweeting about the Open Contracting Data Project.
+We tweet as <a href="https://twitter.com/ocdata">@ocdata</a> and use the hashtag [#opencontractingdata](https://twitter.com/hashtag/opencontractingdata) when tweeting about the Open Contracting Data Project.
 
 <br />
 <br />
