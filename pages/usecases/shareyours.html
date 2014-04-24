@@ -13,7 +13,7 @@ title: Share your open contracting user stories...
    }
 
    .consultationColumn {
-       width:25%;
+       width:33%;
        float:left;
    }
 
@@ -77,37 +77,42 @@ title: Share your open contracting user stories...
          </div>
 
          <div id="dataRequirements" class="consultationForm extraData">
-            <button class="btn btn-primary back" id="backToDetails">&lt; &lt; (3/4)</button> What kinds of data would be needed for this to happen better in future?
+            <button class="btn btn-primary back" id="backToDetails">&lt; &lt; (3/4)</button> What kinds of data are most important for this to happen better in future?
 
             <div class="consultationColContainer">
 
              <div class="consultationColumn">
-                 <span class="colTitle">About the planning</span><br/>
-                 <input type="checkbox" name="dataRequirements[]" value="value1" />Value 1<br />
-                 <input type="checkbox" name="dataRequirements[]" value="value2" />Value 2<br />
-                 <input type="checkbox" name="dataRequirements[]" value="value3" />Value 3<br />
+                 <span class="colTitle">Stages of the contract</span><br/>
+                 <input type="checkbox" name="dataRequirements[]" value="Planning"/> <span title="Data from before a tender is issued. For example, scoping studies, consultations and other preparation information that defines the project, timeline, budgets and desired outcomes." data-toggle="tooltip">Planning</span><br />
+                 <input type="checkbox" name="dataRequirements[]" value="Tender" /> <span title="Details of the request for bids - including specifications and target contract values." data-toggle="tooltip">Tender</span> <br />
+                 <input type="checkbox" name="dataRequirements[]" value="Bids" /><span title="Details of who expressed an interest in winning the contract." data-toggle="tooltip">Bids</span><br />
+                  <input type="checkbox" name="dataRequirements[]" value="Award" /><span title="Details of who recieved the contract, it's value and terms." data-toggle="tooltip">Award</span><br />
+                 <input type="checkbox" name="dataRequirements[]" value="Award" /><span title="Running from during the implementation of the contracted work / delivery of the products." data-toggle="tooltip">Implementation</span><br />
+               <input type="checkbox" name="dataRequirements[]" value="Close" /><span title="Details of the end of the contract, including evaluations, what the final result was, and when and why the contract ended." data-toggle="tooltip">Close</span><br />
              </div>
              <div class="consultationColumn">
-                 <span class="colTitle">About the tender</span><br/>
-                 <input type="checkbox" name="dataRequirements[]" value="value1" />Value 1<br />
-                 <input type="checkbox" name="dataRequirements[]" value="value2" />Value 2<br />
-                 <input type="checkbox" name="dataRequirements[]" value="value3" />Value 3<br />
+                 <span class="colTitle">Facts about the contract</span><br/>
+                 <input type="checkbox" name="dataRequirements[]" value="Orgs" /> <span title="Names and IDs for the organisation issuing the contract, the organisation who recieves the contract, and other parties to it" data-toggle="tooltip">Organisations involved</span><br />
+                 <input type="checkbox" name="dataRequirements[]" value="People" /><span title="Names of the individual people responsible for issuing or managing the contract." data-toggle="tooltip">People involved</span><br />
+                 <input type="checkbox" name="dataRequirements[]" value="Classification" /><span title="Structured information on the kinds of goods and services being procured. For example, using an established code list like the European Common Procurement Vocabulary." data-toggle="tooltip">Classification of goods and services</span><br />
+                 <input type="checkbox" name="dataRequirements[]" value="ContractValue" /><span title="Financial information on how much the contract is for." data-toggle="tooltip">Contract value</span><br />
+                 <input type="checkbox" name="dataRequirements[]" value="ActualExpenditure" /><span title="Transaction details of how much is actually paid out for this contract." data-toggle="tooltip">Actual expenditure</span><br />
+                 <input type="checkbox" name="dataRequirements[]" value="Subcontracts" /><span title="Information on any subcontracting arrangements." data-toggle="tooltip">Subcontracts</span><br />                
+                 <input type="checkbox" name="dataRequirements[]" value="Ammendments" /><span title="Details of any change to the contract." data-toggle="tooltip">Contract amendments</span><br />     
              </div>
 
              <div class="consultationColumn">
-                 <span class="colTitle">About the contract</span><br/>
-                 <input type="checkbox" name="dataRequirements[]" value="value1" />Value 1<br />
-                 <input type="checkbox" name="dataRequirements[]" value="value2" />Value 2<br />
-                 <input type="checkbox" name="dataRequirements[]" value="value3" />Value 3<br />
-             </div>
-
-             <div class="consultationColumn">
-                 <span class="colTitle">About the evaluation</span><br/>
-                 <input type="checkbox" name="dataRequirements[]" value="value1" />Value 1<br />
-                 <input type="checkbox" name="dataRequirements[]" value="value2" />Value 2<br />
-                 <input type="checkbox" name="dataRequirements[]" value="value3" />Value 3<br />
+                 <span class="colTitle">Key features of the data</span><br/>
+                 <input type="checkbox" name="dataRequirements[]" value="Daily" />Published daily<br />
+                 <input type="checkbox" name="dataRequirements[]" value="Monthly" />Published monthly<br />
+                 <input type="checkbox" name="dataRequirements[]" value="GUID" />Globally unique identifiers<br />
+                 <input type="checkbox" name="dataRequirements[]" value="Audited" />Audited information<br />                 
+                 <input type="checkbox" name="dataRequirements[]" value="Audited" />Original documents as well as data<br />                 
              </div>
            </div>  
+           
+           Anything else? <input type="text" name="otherRequirements" id="otherRequirements" placeholder="Comma separated list of other important elements"/> <br/>
+           <small>If you can think of important data you would need not included in the list above, add in short keyword descriptions of it in the box above.</small>
 
              <button class="btn btn-primary next">Skip</button> | <button class="btn btn-primary next"><strong>Next</strong></button>
          </div>
@@ -120,7 +125,7 @@ title: Share your open contracting user stories...
                   Can we share occasional updates with you about the Open Contracting Data Standard? <input type="checkbox" name="eMailUpdate" value="Yes" CHECKED/> Yes please!
              </p>
              <p>
-                 <small>Unless you join our discussion e-mail list as well we'll just send you a copy of our occasional newsletter
+                 <small>Unless you join our discussion e-mail list as well we'll just send you a copy of our occasional newsletter.
              </p>
              <p>
                  <button class="btn btn-primary submit" id="finalSubmit">Submit</button>
@@ -142,6 +147,10 @@ title: Share your open contracting user stories...
                </p> 
                <p>
                    Have you got another story to share? <a href="/pages/usecases/shareyours.html">Refresh this page</a> to share another. 
+               </p>
+               <p>
+                   Want to provide more detail? We would love to hear from you. Get in touch with <a href="mailto:timdavies@webfoundation.org.uk?subject=OCDS%20User%20Stories">Tim</a> or <a a href="https://groups.google.com/a/webfoundation.org/forum/#!forum/public-ocds">share your insights on the mailing list</a>. 
+             </p>
 
          </div>
 
