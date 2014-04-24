@@ -1,7 +1,10 @@
 ---
 layout: home
-title: Latest updates
+title: Blog posts
 ---
+## Blog posts
+
+You can keep in touch day-to-day with our work in progress through [the mailing list, github and twitter feeds](/pages/community.html). However, every now and then we will report on what's been going on during the standard development through short blog posts here.
 
 <ul>
   {% for post in site.posts %}
@@ -10,3 +13,6 @@ title: Latest updates
     </li>
   {% endfor %}
 </ul>
+
+
+You can subscribe to a [feed of the latest posts here](/feed.xml). 
