@@ -29,6 +29,10 @@ title: Share your open contracting user stories...
    textarea {
        margin-top: 5px;
    }
+   
+   .colTitle {
+       font-weight:bold;
+   }
 
 
    --></style>
@@ -69,7 +73,7 @@ title: Share your open contracting user stories...
          <div id="moreDetails" class="consultationForm extraData">
              <button class="btn btn-primary back" id="backToStart">&lt; &lt; (2/4)</button> Can you tell us more about how <span id="agentText">this person</span> would <span id="actionText">do that</span> at the moment? 
                
-             <textarea name="currentSituation" style="display:block;" placeholder="Describe the current situation here. Any details you are provide are useful to us." cols="70" rows="4"></textarea> 
+             <textarea name="currentSituation" style="display:block;" placeholder="Describe the current situation here. Even brief details you can provide are useful to help us understand the challenges a data standard should address." cols="70" rows="4"></textarea> 
              <em><small>Please describe as much as you can about how <span id="agentText">this person or organisation</span> can get access to information and data on contracts at the moment and the challenges they face</small></em>
              </p>
 
@@ -85,34 +89,35 @@ title: Share your open contracting user stories...
                  <span class="colTitle">Stages of the contract</span><br/>
                  <input type="checkbox" name="dataRequirements[]" value="Planning"/> <span title="Data from before a tender is issued. For example, scoping studies, consultations and other preparation information that defines the project, timeline, budgets and desired outcomes." data-toggle="tooltip">Planning</span><br />
                  <input type="checkbox" name="dataRequirements[]" value="Tender" /> <span title="Details of the request for bids - including specifications and target contract values." data-toggle="tooltip">Tender</span> <br />
-                 <input type="checkbox" name="dataRequirements[]" value="Bids" /><span title="Details of who expressed an interest in winning the contract." data-toggle="tooltip">Bids</span><br />
-                  <input type="checkbox" name="dataRequirements[]" value="Award" /><span title="Details of who recieved the contract, it's value and terms." data-toggle="tooltip">Award</span><br />
-                 <input type="checkbox" name="dataRequirements[]" value="Award" /><span title="Running from during the implementation of the contracted work / delivery of the products." data-toggle="tooltip">Implementation</span><br />
-               <input type="checkbox" name="dataRequirements[]" value="Close" /><span title="Details of the end of the contract, including evaluations, what the final result was, and when and why the contract ended." data-toggle="tooltip">Close</span><br />
+                 <input type="checkbox" name="dataRequirements[]" value="Bids" /> <span title="Details of who expressed an interest in winning the contract." data-toggle="tooltip">Bids</span><br />
+                  <input type="checkbox" name="dataRequirements[]" value="Award" /> <span title="Details of who recieved the contract, it's value and terms." data-toggle="tooltip">Award</span><br />
+                 <input type="checkbox" name="dataRequirements[]" value="Award" /> <span title="Running from during the implementation of the contracted work / delivery of the products." data-toggle="tooltip">Implementation</span><br />
+               <input type="checkbox" name="dataRequirements[]" value="Close" /> <span title="Details of the end of the contract, including evaluations, what the final result was, and when and why the contract ended." data-toggle="tooltip">Close</span><br />
              </div>
              <div class="consultationColumn">
                  <span class="colTitle">Facts about the contract</span><br/>
                  <input type="checkbox" name="dataRequirements[]" value="Orgs" /> <span title="Names and IDs for the organisation issuing the contract, the organisation who recieves the contract, and other parties to it" data-toggle="tooltip">Organisations involved</span><br />
-                 <input type="checkbox" name="dataRequirements[]" value="People" /><span title="Names of the individual people responsible for issuing or managing the contract." data-toggle="tooltip">People involved</span><br />
-                 <input type="checkbox" name="dataRequirements[]" value="Classification" /><span title="Structured information on the kinds of goods and services being procured. For example, using an established code list like the European Common Procurement Vocabulary." data-toggle="tooltip">Classification of goods and services</span><br />
-                 <input type="checkbox" name="dataRequirements[]" value="ContractValue" /><span title="Financial information on how much the contract is for." data-toggle="tooltip">Contract value</span><br />
-                 <input type="checkbox" name="dataRequirements[]" value="ActualExpenditure" /><span title="Transaction details of how much is actually paid out for this contract." data-toggle="tooltip">Actual expenditure</span><br />
-                 <input type="checkbox" name="dataRequirements[]" value="Subcontracts" /><span title="Information on any subcontracting arrangements." data-toggle="tooltip">Subcontracts</span><br />                
-                 <input type="checkbox" name="dataRequirements[]" value="Ammendments" /><span title="Details of any change to the contract." data-toggle="tooltip">Contract amendments</span><br />     
+                 <input type="checkbox" name="dataRequirements[]" value="People" /> <span title="Names of the individual people responsible for issuing or managing the contract." data-toggle="tooltip">People involved</span><br />
+                 <input type="checkbox" name="dataRequirements[]" value="Classification" /> <span title="Structured information on the kinds of goods and services being procured. For example, using an established code list like the European Common Procurement Vocabulary." data-toggle="tooltip">Classification of goods and services</span><br />
+                 <input type="checkbox" name="dataRequirements[]" value="ContractValue" /> <span title="Financial information on how much the contract is for." data-toggle="tooltip">Contract value</span><br />
+                 <input type="checkbox" name="dataRequirements[]" value="ActualExpenditure" /> <span title="Transaction details of how much is actually paid out for this contract." data-toggle="tooltip">Actual expenditure</span><br />
+                 <input type="checkbox" name="dataRequirements[]" value="Subcontracts" /> <span title="Information on any subcontracting arrangements." data-toggle="tooltip">Subcontracts</span><br />                
+                 <input type="checkbox" name="dataRequirements[]" value="Ammendments" /> <span title="Details of any change to the contract." data-toggle="tooltip">Contract amendments</span><br />     
              </div>
 
              <div class="consultationColumn">
                  <span class="colTitle">Key features of the data</span><br/>
-                 <input type="checkbox" name="dataRequirements[]" value="Daily" />Published daily<br />
-                 <input type="checkbox" name="dataRequirements[]" value="Monthly" />Published monthly<br />
-                 <input type="checkbox" name="dataRequirements[]" value="GUID" />Globally unique identifiers<br />
-                 <input type="checkbox" name="dataRequirements[]" value="Audited" />Audited information<br />                 
-                 <input type="checkbox" name="dataRequirements[]" value="Audited" />Original documents as well as data<br />                 
+                 <input type="checkbox" name="dataRequirements[]" value="Daily" /> <span title="The data needs to be updated very often to be useful" data-toggle="tooltip">Published daily</span><br />
+                 <input type="checkbox" name="dataRequirements[]" value="Monthly" /> <span title="The data should be updated at least monthly to be useful" data-toggle="tooltip">Published monthly</span><br />
+                 <input type="checkbox" name="dataRequirements[]" value="GUID" /> <span title="Organisation and contract identifiers should be globally unique. I.e. no two contracts should from whatever source should have the same ID." data-toggle="tooltip">Globally unique identifiers</span><br />
+                 <input type="checkbox" name="dataRequirements[]" value="Audited" /> <span title="The data should be verified by some external body." data-toggle="tooltip">Audited information</span><br />                 
+                 <input type="checkbox" name="dataRequirements[]" value="Audited" /> <span title="Plain text or PDF copies of the original contract documents should be attached to the data." data-toggle="tooltip">Original documents as well as data</span><br />                 
              </div>
            </div>  
-           
+           <p>
            Anything else? <input type="text" name="otherRequirements" id="otherRequirements" placeholder="Comma separated list of other important elements"/> <br/>
            <small>If you can think of important data you would need not included in the list above, add in short keyword descriptions of it in the box above.</small>
+           </p>
 
              <button class="btn btn-primary next">Skip</button> | <button class="btn btn-primary next"><strong>Next</strong></button>
          </div>
@@ -167,6 +172,7 @@ title: Share your open contracting user stories...
                  setTimeout(function() { defer(method) }, 50);
          }
              defer(function() {
+              $("span").tooltip()
                  
               $(".extraData").hide();
               
