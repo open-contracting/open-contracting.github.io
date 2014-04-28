@@ -20,7 +20,7 @@ title: Community
     <div class="col-md-4">
         <div class="jumbotron community">
             <img src="/assets/design/Twitter_logo_blue.png" style="float:left;"/>
-            <p class='pull-right'>Follow us on twitter<br/><a href="https://twitter.com/ocdata">@ocdata</a><br/><a href="https://twitter.com/hashtag/opencontractingdata">#opencontractingdata</a></p>
+            <p class='pull-right'><a href="https://twitter.com/ocdata">@ocdata</a><br /><a href="https://twitter.com/hashtag/opencontractingdata" class="hashtag">#opencontractingdata</a></p>
         </div>
     </div>
 </div>
