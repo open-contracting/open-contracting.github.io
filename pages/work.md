@@ -4,7 +4,9 @@ title: Work
 date: 23/02/2014
 ---
 ## Current
-### [Developer Home](/pages/docs/)
+
+--- **[Developer Home](/pages/docs/)**
+
 #### Open Data Comparison
 A website where we are collecting information about datasets as part of our supply side analysis.
 
