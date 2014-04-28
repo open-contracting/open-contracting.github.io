@@ -103,3 +103,6 @@ To install iPython notebook
 To run the experiments in the ipython notebooks, navigate at your command line to the directory with the notebooks in it. While in your virtual environment that you setup above:
 
     (.ocdata-categorize)$ ipython notebook
+
+### data pre-processing
+In order to be able to work with the column headers we need to split them into constituent words, sometimes we get headers like ````org_contactemail```` which we want split into ````org, contact, email````. The method words/split_words.py handles this for us.
