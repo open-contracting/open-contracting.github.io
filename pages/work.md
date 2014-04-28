@@ -6,7 +6,7 @@ updated: 28/04/2014
 ---
 ## Current
 
-**[Developer Home](/pages/docs/)**
+**[Developer Docs](/pages/docs/)**
 
 #### Open Data Comparison
 A website where we are collecting information about datasets as part of our supply side analysis.
