@@ -315,4 +315,7 @@ h4 {
 .toc {
     float: right;
     font-size: .8em;
+    padding: 5px;
+    padding-right: 25px;
+    border: 1px solid #EAEF45;
 }
