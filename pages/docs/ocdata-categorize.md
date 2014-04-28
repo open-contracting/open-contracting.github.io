@@ -99,7 +99,7 @@ To install iPython notebook
 
 ### running the code
 
-#### Experiments
+#### experiments
 To run the experiments in the ipython notebooks, navigate at your command line to the directory with the notebooks in it. While in your virtual environment that you setup above:
 
     (.ocdata-categorize)$ ipython notebook
