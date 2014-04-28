@@ -3,6 +3,7 @@ layout: single
 title: Docs - Open Data Comparison
 date: 28/04/2014
 ---
+<div class="toc"></div>
 #### about
 
 A Django application for comparing datsets, built on Open Comparison
@@ -25,3 +26,7 @@ On OSX, using CLANG for compilation (CLANG throws errors on unexpected arguments
     cd deploy
     ARCHFLAGS=-Wno-error=unused-command-line-argument-hard-error-in-future ./bootstrap
     ./tasks.py deploy:dev
+
+#### contributing
+
+A Django application for comparing datsets, built on Open Comparison
