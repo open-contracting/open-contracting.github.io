@@ -3,13 +3,12 @@ layout: single
 title: Docs - Open Data Comparison
 date: 28/04/2014
 ---
-about
-=====
+#### about
+
 A Django application for comparing datsets, built on Open Comparison
 
 
-install
-=======
+#### install
 
 To create your database in MySQL with utf-8:
 
