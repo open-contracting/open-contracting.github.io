@@ -3,38 +3,31 @@ layout: single
 title: Work
 date: 23/02/2014
 ---
-## Standard
+## Current
+### [Developer Home](/pages/docs/)
+#### Open Data Comparison
+A website where we are collecting information about datasets as part of our supply side analysis.
 
-### Supply side analysis (aka Data diving)
-**[Montreal sprint](/pages/notes/workshops/2014-04-Montreal)** - We will be sprinting in Montreal with the PyCon sprints. We have projects for all skill sets -  data geeks, developers, designers, machine learning specialists, librarians - we got it all. 
+#### Dataset analysis - categorization
+Creating scripts to facilitate faster processing of datasets, but autocategorizing available fields
 
-**[Building a data landscape](/pages/notes/datasets)** - We are compiling a list of Open Contracting Data to understand the current supply of data available, and categorizing it to build a data landscape.
+#### Dataset analysis - mapping values
+Looking at allowable values in fields to build an understanding of where we will need to focus our efforts to enable cross-comparable data.
+
+## Archive
+
+[Montreal sprint](/pages/notes/workshops/2014-04-Montreal) - We sprinted in Montreal with the PyCon sprints.
 
 In 2013, we did an [initial sprint](/pages/notes/firstsprint.html) of work looking at some existing open contracting 
 data and identifying common themes among it.
 
-## Tools
-We need to start building out an ecosystem of tools to support the data standard.
+## Other
 
-* a script to help publishers who already publish their data to re-format it into the open-contracting standard. 
-* a website that takes data and maps contracts by geo-location
-* a database that lists all open-contracting projectsls
-
-We will be running sprints open to any developers who are interested in developing these
-tools. 
-
-We would really appreciate suggestions from the community, be it publishers, data users, or other stakeholders
-about tools that would be useful. Ping us on the [mailing list](/pages/community.html)! 
-
-### Current Tools
-
-* Open Data Comparison - for comparing the datasets already being published.  BETA server is [here](http://ocds.stage.aptivate.org/opendatacomparison).  Code is on [github](http://github.com/open-contracting/opendatacomparison).
-
-## Governance
+#### Governance
 We are actively trying to build our governance structure, please do join the [mailing list](/pages/community.html) if you
 are interested in participating. We will post further information as this project progresses.
 
-## Advocacy & Support
+#### Advocacy & Support
 If you are interested in adopting or promoting the standard please do get in touch through 
 our [mailing list](/pages/community.html).
 
