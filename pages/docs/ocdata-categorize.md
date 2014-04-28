@@ -82,17 +82,24 @@ Get your virtual environment setup (Ubuntu):
 
 To install everything in a virtual environment on Ubuntu (the order is important - I have had issues otherwise):
     
-    $ mkvirtualenv ocdata-categorize
     $ sudo apt-get install libatlas-base-dev gfortran # needed for compiling
-    $ pip install numpy
-    $ pip intall scipy
-    $ pip install -U scikit-learn
-    $ pip install pandas
+    $ mkvirtualenv ocdata-categorize
+    (ocdata-categorize)$ pip install numpy
+    (ocdata-categorize)$ pip intall scipy
+    (ocdata-categorize)$ pip install -U scikit-learn
+    (ocdata-categorize)$ pip install pandas
 
 Install the rest of the packages:
 
-    $ pip install nltk requests
+    (ocdata-categorize)$ pip install nltk requests
 
 To install iPython notebook
 
-    $ pip install pyzmq jinja2 tornado pygments ipython
+    (ocdata-categorize)$ pip install pyzmq jinja2 tornado pygments ipython
+
+### running the code
+
+#### Experiments
+To run the experiments in the ipython notebooks, navigate at your command line to the directory with the notebooks in it. While in your virtual environment that you setup above:
+
+    (.ocdata-categorize)$ ipython notebook
