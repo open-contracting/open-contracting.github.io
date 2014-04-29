@@ -9,4 +9,4 @@ Documentation for the [open contracting repos](https://github.com/open-contracti
 
 * [opendatacomparison](opendatacomparison.html)
 * [ocdata-categorize](ocdata-categorize.html)
-* [ocdata-concord](ocdata-concord.html)
+* [ocdata-blend](ocdata-blend.html)
