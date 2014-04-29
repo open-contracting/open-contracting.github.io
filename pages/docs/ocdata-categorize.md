@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Docs - Open Data Comparison
+title: Docs - Categorizer
 date: 28/04/2014
 ---
 <div class="toc"></div>
