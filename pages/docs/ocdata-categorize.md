@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Docs - Categorizer
+title: Docs - OCData Categorize
 date: 28/04/2014
 ---
 <div class="toc"></div>
