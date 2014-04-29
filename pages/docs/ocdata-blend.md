@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Docs - Blender
+title: Docs - OCData - Blend
 date: 29/04/2014
 ---
 <div class="toc"></div>
@@ -8,6 +8,15 @@ date: 29/04/2014
 There are already many publishers (governments at country, federal, state, municipal level) publishing
 open contracting data. But this information is not published in a consistent manner, people use their own field names,
 publish their own unique set of fields, and use their own coding system.
+
+Some of the data published is straight forward, names of people, amounts, dates etc. But some of it is "coded," that is only a limited number of possible values exist. For example, publishers may publish the type of selection criteria that was used such as Lowest/Lower Bid, Exclusive Rights, Best Overall Proposal, Government Objectives Representing Best Interests/Value to Govt. But the values used in the Canadian dataset, may not be exactly the same as the values in the UK dataset, and certainly won't be the same as the values in the Georgian dataset (as these are in Georgian!). Another data field where we will experience this issue is in the classification of goods. There are standardized classification systems e.g. CPV, GSIN, NAICS, UNSPCS and then publishers may also choose their own classification system.
+
+In both cases we want to build tools that can help us join up data across datasets (this may be the same publishers over time - if they change classification systems, or datasets from different publishers).
+
+#### the nitty gritty
+As we are currently (April 2014) in the analysis phase of our work building a standard, the initial work here will be just to build out data / tools / resources, that help us understand the scope of the challenge we face. How disparate is the data, are there simple things we can easily do to make it comparable.
+
+After this analysis we will focus our efforts into building tools with achievable goals to facilitate these challenges of data blending.
 
 
 ### this repo
