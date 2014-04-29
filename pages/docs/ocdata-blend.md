@@ -28,7 +28,7 @@ This project is structure as follows, please keep pull requests to this format:
         tests/
         visualization/
 
-* data is where we can store sample data for testing against and working with. When committing to this directory, make sure that you have the right to republish the data, if not, just link to it.
+* data is where we can store sample data for testing against and working with. When committing to this directory, make sure that you have the right to republish the data, if not, just link to it. Please enter attribution data into the attribution.md file as appropriate.
 * experiments - keep notebooks and other snippets where we play with the data, demonstrate approaches etc., does not need to be under test, try and name things clearly and  to document. All reusable / helper / util code should go into ocdata-blend. Whenever you do an experiment, please add an entry in the journal.md file so we can know what we've tried and what we've found.
 * ocdata-blend contains all our code which we can wrap up into library to use elsewhere. All code in here, should be under test
 * ocdata-blend/tests are the tests for the code in ocdata-categorize that will get shipped with the package
