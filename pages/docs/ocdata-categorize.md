@@ -4,6 +4,9 @@ title: Docs - OCData Categorize
 date: 28/04/2014
 ---
 <div class="toc"></div>
+### repo
+[github.com/open-contracting/ocdata-categorize](https://github.com/open-contracting/ocdata-categorize)
+
 ### the problem
 There are already many publishers (governments at country, federal, state, municipal level) publishing
 open contracting data. But this information is not published in a consistent manner, people use their own field names,
