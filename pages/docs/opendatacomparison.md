@@ -4,6 +4,8 @@ title: Docs - Open Data Comparison
 date: 28/04/2014
 ---
 <div class="toc"></div>
+#### repo [https://github.com/open-contracting/opendatacomparison](https://github.com/open-contracting/opendatacomparison)
+
 ### about
 A Django application for comparing datsets, built on Open Comparison. 
 
