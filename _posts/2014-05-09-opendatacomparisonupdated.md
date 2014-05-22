@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Open Data Comparison Updates
+title:  Contracting Data Comparison Updates
 date:   2014-05-09
 author: Sarah Bird
 image: /assets/images/opendatacomparison.jpg
