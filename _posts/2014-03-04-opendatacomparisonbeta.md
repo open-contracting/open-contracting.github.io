@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Open Data Comparison Launched
+title:  Contracting Data Comparison Launched
 date:   2014-03-04
 author: Sarah Bird
 image: /assets/images/opendatacomparison.jpg
