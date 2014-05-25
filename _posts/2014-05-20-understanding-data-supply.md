@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Comparing Contract Data: Understanding Supply
+title:  Comparing Contract Data - Understanding Supply
 date:   2014-05-20
 author: Ana Brandusescu
 image: /assets/images/opendatacomparison.jpg
