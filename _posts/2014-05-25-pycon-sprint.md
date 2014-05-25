@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Montreal Python Conference (PyCon) Sprint: What We Discussed 
+title:  Montreal Python Conference (PyCon) Sprint - What We Discussed 
 date:   2014-05-25
 author: Ana Brandusescu
 image: /assets/images/opendatacomparison.jpg
