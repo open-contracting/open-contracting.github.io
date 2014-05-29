@@ -22,7 +22,7 @@ Advocating for standard adoption and implementation. Increasing public awareness
 
 
 ###What is Open Contracting?
-Governments around the world spend an estimated US $9.5 trillion every single year through contracts. But, contracting information is often unavailable for public scrutiny. The Open Contracting Partnership is promoting disclosure and participation in public contracting. It covers the whole contracting chain from planning to finalization, including tendering and performance. It includes all contract types, from basic contracts for the procurement of goods to complex extraction contracts. You can find out more about Open Contracting at the [Open Contracting Partnership's website](http://www.open-contracting.org/home-v1)
+Governments around the world spend an estimated US $9.5 trillion every single year through contracts. However, contracting information is often unavailable for public scrutiny. The Open Contracting Partnership is promoting disclosure and participation in public contracting. It covers the whole contracting chain from planning to finalization, including tendering and performance. It includes all contract types, from basic contracts for the procurement of goods to complex extraction contracts. You can find out more about Open Contracting at the [Open Contracting Partnership's website](http://www.open-contracting.org/home-v1).
 
 ###Why a data standard?
 At the moment, many public bodies are publishing their contract data, or parts of their data. But that data is often incompatible with other similar data, locked away in a custom system/interface. And then there are many bodies who do not publish any data at all.
