@@ -1,6 +1,6 @@
 ---
 layout: single
-title: User Stories and use cases
+title: User Stories and Use Cases
 redirect_from: /pages/notes/workshops/2014-04-Montreal/use-cases.html
 ---
 
