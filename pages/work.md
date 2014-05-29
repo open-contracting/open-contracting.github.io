@@ -8,11 +8,11 @@ updated: 28/04/2014
 
 **[Developer Docs](/pages/docs/)**
 
-#### Open Data Comparison
+#### Contracting Data Comparison
 A website where we are collecting information about datasets as part of our supply side analysis.
 
 #### Dataset analysis - categorization
-Creating scripts to facilitate faster processing of datasets, but autocategorizing available fields
+Creating scripts to facilitate faster processing of datasets, but autocategorizing available fields.
 
 #### Dataset analysis - mapping values
 Looking at allowable values in fields to build an understanding of where we will need to focus our efforts to enable cross-comparable data.
