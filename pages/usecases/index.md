@@ -25,15 +25,15 @@ There are a range of different methods for developing user stories and use cases
 
 * The [CSV on the Web Working Group](http://w3c.github.io/csvw/use-cases-and-requirements/#UC-DigitalPreservationOfGovernmentRecords) have written a set of Use Cases and Technical Requirements. These describe a particular technical challenge faced, and detail the particular technical elements involved (e.g. requiring a Primary Key, or a transformation from CSV to XML), as well as summarising how some more advanced standardisation or tooling could help with the scenario described. 
 
-* James McKinney describes hows the [Popolo project](http://popoloproject.com/) developed use cases by ooking at the demand side (especially what civil society organizations wanted in terms of legislative data)  and looking at what existing standards had terms for (an indirect indication of needs, since those standards must have been created to fulfill use cases). The resulting "use cases and requirements" sections are brief summaries that describe particular data elements that might be valuable to a user, giving examples. The Polpolo project also collects use cases and requirements through a [mailing list](http://lists.w3.org/Archives/Public/public-opengov/) and [issue tracker](http://popoloproject.com/specs/person.html). If at least two groups have a need for something, that’s usually sufficient reason to add it to the spec. The project target audience are tech-savvy civil society organizations.
+* James McKinney describes how the [Popolo project](http://popoloproject.com/) developed use cases by looking at the demand side (especially what civil society organizations wanted in terms of legislative data) and looking at what existing standards had terms for (an indirect indication of needs, since those standards must have been created to fulfill use cases). The resulting "use cases and requirements" sections are brief summaries that describe particular data elements that might be valuable to a user, giving examples. The Popolo project also collects use cases and requirements through a [mailing list](http://lists.w3.org/Archives/Public/public-opengov/) and [issue tracker](http://popoloproject.com/specs/person.html). If at least two groups have a need for something, that’s usually sufficient reason to add it to the spec. The project target audience are tech-savvy civil society organizations.
 
 We are exploring a hybrid approach, captured in the draft [template](template.html) which is being filled out based on desk research and conversations with potential users of open contracting data.
 
 ## Questions for Open Contracting user stories & use cases:
 
-1. Should our user stories and use cases be based upon real people, or generalised cases. 
+1. Should our user stories and use cases be based upon real people, or generalised cases? 
 
-2. Should we have a standard format or differnet kinds of use cases.
+2. Should we have a standard format or different kinds of use cases?
 
 # Draft Open Contracting User Stories
 
