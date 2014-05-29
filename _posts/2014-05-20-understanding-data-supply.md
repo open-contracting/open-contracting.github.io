@@ -20,7 +20,7 @@ As part of our supply-side research, we’ve been looking in-depth at these exis
 
 * How do different datasets represent and model the contracting process?
 
-* How far are there common identifiers that can be used to join up between datasets, either from the same country, or across countries?
+* How far are there common identifiers that can be used to link datasets, either from the same country, or across countries?
 
 ## Creating a platform
 
@@ -36,19 +36,19 @@ Through the **Contracting Data Comparison (CDC)** platform we are able to:
 
 * Import and store detailed mappings between the current data models used by publishers, and common classifications of fields and data structures
 
-* Allows us to query the data in multiple ways once it is captured
+* Query the data in multiple ways once it is captured
 
-* Provides an open platform for anyone to view and contribute (e.g., the San Mateo dataset was added by a community member)
+* Provide an open platform for anyone to view and contribute (e.g., the San Mateo dataset was added by a community member)
 
 * Store complex relationships that are not easily captured in spreadsheets
 
-* Provides a database for data quality assurance, which tracks any revisions and changes made
+* Provide a database for data quality assurance, which tracks any revisions and changes made
 
 We developed a multilingual documentation for the dataset ‘Description’ field, and decided that CDC should have English as the first language, followed by the original language of published datasets.
 
 ![Website Screenshot](/assets/images/2014-05-20-Supply/image_0.jpg)
 
-We think this function can be duplicated for the ‘Publisher’s description field as well. Currently, all of our publisher description is in English.
+We think this function can be duplicated for the 'Publisher'’s description field as well. Currently, all of our publisher description is in English.
 
 Our hope is that, as it develops, the Contracting Data Comparison will allow us to keep developing an ever more detailed picture of the landscape of contracting data availability.
 
