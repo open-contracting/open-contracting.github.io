@@ -6,7 +6,7 @@ author: Ana Brandusescu
 image: /assets/images/opendatacomparison.jpg
 ---
 
-We (Sarah, Ana, Tim and Michael) met at PyCon in Montreal (April 14-17) to lead the Open Contracting sprint in the Open Spaces rooms. There were many interesting discussions held over the four days of sprints from topics on data ontologies to public procurement phases.
+We (Sarah, Ana, Tim and Michael) met at PyCon in Montreal (April 14-17) to lead the Open Contracting sprint in the Open Spaces rooms. There were many interesting discussions held over the four days of sprints on topics ranging from data ontologies to public procurement phases.
 
 This blog post covers the ideas we brainstormed on public procurement and contracting data. These include information about standards and documentation and varying contexts that range from Canadian e-portals to global organizational systems and procurement laws.  It also details contracts and trade agreements, international standards, classification and coding schemes and taxonomies.
 
@@ -14,7 +14,7 @@ This blog post covers the ideas we brainstormed on public procurement and contra
 
 ## Canadian context
 
-One discussion focused on Canadian portals and public procurement. BuyAndSell.gc.ca shares data on behalf of Canada for public procurement by Public Works and Services Canada who cover a small percentage of contracts but large percentage of the dollar value; their information is linked to Data.gc.ca. Every government department in Canada is required to show their contracts on their page, however there are many inconsistencies in the portals. There are 100+ departments that would need web scraping if we would want to consolidate and link all information to be available in one portal (e.g., BuyAndSell.gc.ca).
+One discussion focused on Canadian portals and public procurement. BuyAndSell.gc.ca shares data on behalf of Canada for public procurement by Public Works and Services Canada who cover a small percentage of contracts but large percentage of the dollar value; their information is linked to Data.gc.ca. Every government department in Canada is required to show their contracts on their page, however there are many inconsistencies in their portals. This includes the sheer number of departments (100+) that would need web scraping if we would want to consolidate and link all information to one portal (e.g., BuyAndSell.gc.ca).
 
 ## Global context
 
