@@ -50,9 +50,9 @@ After many discussions about concepts and all phases of public procurement, we d
 
 All phases are listed below. They include field names that are linked to each phase.   
 
-1. **Planning **
+1. **Planning**
 
-2.** Tender **(sprint focus)
+2. **Tender** (sprint focus)
 
 * awarding / facilitating / procuring entity (e.g., party obtaining goods and services)
 
@@ -78,7 +78,7 @@ All phases are listed below. They include field names that are linked to each ph
 
 * linking identifiers
 
-3.** Award **(sprint focus)
+3. **Award** (sprint focus)
 
 * awarding entity
 
@@ -104,7 +104,7 @@ All phases are listed below. They include field names that are linked to each ph
 
 * linking identifiers
 
-4. **Contract **(sprint focus)
+4. **Contract** (sprint focus)
 
 * amendment number (very important for transparency)
 
@@ -112,7 +112,7 @@ All phases are listed below. They include field names that are linked to each ph
 
 * contract record / PO / credit card data
 
-5. **Performance **
+5. **Performance**
 
 * invoices
 
@@ -132,7 +132,7 @@ All phases are listed below. They include field names that are linked to each ph
 
 * contract Status
 
-6. **Close **
+6. **Close**
 
 * status
 
