@@ -52,6 +52,7 @@ All phases are listed below. They include field names that are linked to each ph
 
 1. **Planning**
 
+
 2. **Tender** (sprint focus)
  * awarding / facilitating / procuring entity (e.g., party obtaining goods and services)
  * receiving entity (e.g., party that won) 
@@ -65,6 +66,7 @@ All phases are listed below. They include field names that are linked to each ph
  * other 
  * tender unique identifier (e.g., numbers and/or letters pertaining to tender)
  * linking identifiers
+
 
 3. **Award** (sprint focus)
  * awarding entity
@@ -80,10 +82,12 @@ All phases are listed below. They include field names that are linked to each ph
  * contract unique identifier (e.g., numbers and/or letters pertaining to the contract itself)
  * linking identifiers
 
+
 4. **Contract** (sprint focus)
  * amendment number (very important for transparency)
  * amendment reason
  * contract record / PO / credit card data
+
 
 5. **Performance**
  * invoices
@@ -95,6 +99,7 @@ All phases are listed below. They include field names that are linked to each ph
  * unique identifiers
  * linking identifiers
  * contract Status
+
 
 6. **Close**
  * status
