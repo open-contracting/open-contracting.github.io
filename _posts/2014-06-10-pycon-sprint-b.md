@@ -132,7 +132,7 @@ All phases are listed below. They include field names that are linked to each ph
 
 * contract Status
 
-6. **Close**
+6.  **Close**
 
 * status
 
