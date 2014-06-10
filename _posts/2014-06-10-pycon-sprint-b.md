@@ -22,8 +22,6 @@ We divided the project work planned over the 4 day sprint by forming 3 main team
 
 Sarah led the coding/Python team. There were many developers interested in collaborating their Python skills for technical contributions to Contracting Data Comparison (CDC). Two of the focus areas included machine learning and CDC functionality. Contributors included Aaron Cohen, Andreas Dewes, Simon Frid, Michael Glaude, Bryan Gorges, Brittain Hard, Brantley Harris, Matt Lamberti, Dan Langer, Teddy McWilliams, Aaron Rothenberg, David Street, Nick Zaccardi. 
 
-BIRD TO WRITE WHAT WE DID!
-
 Tim led the user case studies team, building the [User Stories Tool](http://open-contracting.github.io/pages/usecases/shareyours.html) for participants to share their open contracting stories, available on the Open Contracting Data Standard page. Discussions were held with John Jordan and Louis Charbonneau, as well as with other developers at PyCon.
 
 Ana led the data field landscape team. We found many researchers and open government enthusiasts interested in data ontologies, standards and analysis of open contracting. The team: Eric Canen, John Jordan, Herb Lainchbury and Noé Domínguez Porras.
