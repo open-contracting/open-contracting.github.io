@@ -53,96 +53,56 @@ All phases are listed below. They include field names that are linked to each ph
 1. **Planning**
 
 2. **Tender** (sprint focus)
-
-* awarding / facilitating / procuring entity (e.g., party obtaining goods and services)
-
-* receiving entity (e.g., party that won) 
-
-* goods 
-
-* budget (e.g., min value, max value, currency type)
-
-* tender date (e.g., published date, closing date)
-
-* tender status (e.g., active, closed, cancelled)
-
-* tender type
-
-* procurement strategy
-
-* documents (e.g., link to RFP - Request for Proposal)
-
-* other 
-
-* tender unique identifier (e.g., numbers and/or letters pertaining to tender)
-
-* linking identifiers
+ * awarding / facilitating / procuring entity (e.g., party obtaining goods and services)
+ * receiving entity (e.g., party that won) 
+ * goods 
+ * budget (e.g., min value, max value, currency type)
+ * tender date (e.g., published date, closing date)
+ * tender status (e.g., active, closed, cancelled)
+ * tender type
+ * procurement strategy
+ * documents (e.g., link to RFP - Request for Proposal)
+ * other 
+ * tender unique identifier (e.g., numbers and/or letters pertaining to tender)
+ * linking identifiers
 
 3. **Award** (sprint focus)
-
-* awarding entity
-
-* receiving entity
-
-* goods / services 
-
-* contract start date
-
-* contract end date
-
-* contract value
-
-* currency type 
-
-* contracted entity (entity that won the contract)
-
-* documents
-
-* other
-
-* contract unique identifier (e.g., numbers and/or letters pertaining to the contract itself)
-
-* linking identifiers
+ * awarding entity
+ * receiving entity
+ * goods / services 
+ * contract start date 
+ * contract end date
+ * contract value
+ * currency type 
+ * contracted entity (entity that won the contract)
+ * documents
+ * other
+ * contract unique identifier (e.g., numbers and/or letters pertaining to the contract itself)
+ * linking identifiers
 
 4. **Contract** (sprint focus)
-
-* amendment number (very important for transparency)
-
-* amendment reason
-
-* contract record / PO / credit card data
+ * amendment number (very important for transparency)
+ * amendment reason
+ * contract record / PO / credit card data
 
 5. **Performance**
+ * invoices
+ * payment from
+ * payment to
+ * transaction value
+ * milestone
+ * other
+ * unique identifiers
+ * linking identifiers
+ * contract Status
 
-* invoices
+6. **Close**
+ * status
+ * final value
+ * other
+ * unique identifiers
+ * linking identifiers
 
-* payment from
-
-* payment to
-
-* transaction value
-
-* milestone
-
-* other
-
-* unique identifiers
-
-* linking identifiers
-
-* contract Status
-
-6.  **Close**
-
-* status
-
-* final value
-
-* other
-
-* unique identifiers
-
-* linking identifiers
 
 Each dataset included the following columns: Original Name, English Name, Formatted Name, Standard Name, Description of Field, English Translation of Description. These were created to have clear links from the original dataset names to names that are finalized for CDC.  
 
