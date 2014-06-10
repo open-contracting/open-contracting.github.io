@@ -40,8 +40,6 @@ The first step is to categorize datasets into concepts that really make sense fr
 
 The datasets are available to view in [CDC Open Contracting Data Field Landscape](https://docs.google.com/spreadsheet/ccc?key=0AqLP9fZSKM8jdFg2WGhHQi1QbE54Wml5aDNyaUVDRGc&usp=sharing#gid=0). 
 
-![image alt text](image_1.jpg)
-
 We created column headings to show the progress from original dataset names to standard ones we would be using in our refinement process. This was especially important when handling non-English datasets and portals.  
 
 We constructed a field data name convention to be used across all datasets (e.g.,  lower case, separated by underscores). Throughout our analysis, we realized some datasets were had aggregated information, not individual contracts, and included new datasets subject to a deep analysis. We also decided to focus on three of the open contracting process phases: tender, award and contract. The next section, datamap concepts, details our process.
