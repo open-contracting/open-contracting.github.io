@@ -36,7 +36,7 @@ When answering this question, we should keep in mind what users actually need. K
 
 The first step is to categorize datasets into concepts that really make sense from both a data and a procurement point of view. In doing so, we began consolidating datasets that we would subject to a deep analysis. We worked with 7 specific contracting datasets drawn from our [Priority Countries list](http://www.google.com/url?q=http%3A%2F%2Fopen-contracting.github.io%2Fpages%2Fnotes%2Fdatasets%2Fpriorities.html&sa=D&sntz=1&usg=AFQjCNFdwTRX8oLxhwOmdbSWnGHFdPB0jA): Canada, UK, Mexico, Georgia, Moldova, EU and UNOPS. 
 
-![image alt text](image_0.jpg)
+![Website Screenshot](/assets/images/2014-06-10-pycon-b/image_0.jpg)
 
 The datasets are available to view in [CDC Open Contracting Data Field Landscape](https://docs.google.com/spreadsheet/ccc?key=0AqLP9fZSKM8jdFg2WGhHQi1QbE54Wml5aDNyaUVDRGc&usp=sharing#gid=0). 
 
