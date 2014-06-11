@@ -37,6 +37,8 @@ tool, or tell us about your existing tool - we don't want to duplicate good work
 
 All our code is hosted on [github](http://www.github.com/open-contracting)
 
+Developer mailing list on [Google Groups](https://groups.google.com/a/webfoundation.org/forum/#!forum/public-ocds-dev)
+
 ### Tweet
 We tweet as <a href="https://twitter.com/ocdata">@ocdata</a> and use the hashtag [#opencontractingdata](https://twitter.com/hashtag/opencontractingdata) when tweeting about the Open Contracting Data Project.
 
