@@ -14,7 +14,7 @@ There are three types of possible review, which are documented [here](review_typ
 
 The prioritized list of datasets for review including which type of review are [here](priorities.html).
 
-We have been documenting our findings on our data comparison site [http://ocds.open-contracting.org/opendatacomparison]
+We have been documenting our findings on our data comparison site [http://ocds.open-contracting.org/opendatacomparison](http://ocds.open-contracting.org/opendatacomparison)
 
 ### Building a datamap
 Part of the supply side analysis is to *understand* what fields publishers are already publishing. We are documenting the fields with the following goals in mind:
