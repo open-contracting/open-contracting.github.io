@@ -14,7 +14,7 @@ There are three types of possible review, which are documented [here](review_typ
 
 The prioritized list of datasets for review including which type of review are [here](priorities.html).
 
-The progress against this list is in this [hackpad](https://opencontractingdata.hackpad.com/Dataset-Review-progress-CtdgQB5aLrA) (needs organizing).
+We have been documenting our findings on our data comparison site [http://ocds.open-contracting.org/opendatacomparison]
 
 ### Building a datamap
 Part of the supply side analysis is to *understand* what fields publishers are already publishing. We are documenting the fields with the following goals in mind:
@@ -26,7 +26,7 @@ Part of the supply side analysis is to *understand* what fields publishers are a
 * In creating a landscape where we identify common fields across multiple datasets, we are a step closer to having data be interoperable. We know that in the not to distant future we will want to attempt to convert some existing datasets into the new OC data standard so we can record mapping that will help that **Goal 5** Facilitate data conversion between existing datasets.
 * Accomodate new contracts as we encounter them. In our attempt to build a landscape we need to incorporate different kinds of contracts e.g. framework contracts, land, extractives etc. **Goal 6** Our landscape should be able to document and capture new variations as we uncover them.
 
-### Datamap Concepts
+### Datamap Concepts (Note: June 27 2014 - needs updating)
 * Planning (catch all just one for now)
 * Tender
  * Awarding entity
