@@ -3,65 +3,12 @@ layout: base
 published: true
 ---
 
+<br><br>
+<h1 textalign="center">This site has moved.  It can now be found at<br><a href="http://standard.open-contracting.org">standard.open-contracting.org</a></h1>
 
-<h1>This site has moved.  It can now be found at<br><a href="http://standard.open-contracting.org">standard.open-contracting.org</a></h1>
-
-<br>
-
-
+<br><br>
 
 
-
-
-<div class="post-title">
-    <div class="row">
-        <div class="col-xs-4 iconic-block">
-            <a href="/pages/work.html">
-                <div class="panel block panel-default">
-                    <div class="panel-body iconic">
-                        <img class="center-block" src="/assets/design/building.png"/>
-                    </div>
-                    <div class="panel-body iconic-button">
-                    <button class="btn btn-primary btn-lg" role="button">Current work</button>
-                    </div>
-                </div>
-            </a>
-        </div>
-        <div class="col-xs-4 iconic-block">
-            <a href="/pages/community.html">
-                <div class="panel block panel-default">
-                    <div class="panel-body iconic">
-                        <img class="center-block" src="/assets/design/community.png"/>
-                    </div>
-                    <div class="panel-body iconic-button">
-                        <button class="btn btn-primary btn-lg" role="button">Join us</button>
-                    </div>
-                 </div>
-             </a>
-        </div>
-        <div class="col-xs-4 iconic-block">
-            {% assign post = site.posts.first %}
-            <a href="{{ post.url }}">
-                <div class="panel block">
-                    <div class="panel-body iconic">
-                        {% if post.image %}
-                        <img class="center-block" src="{{ post.image }}"/>
-                        {% elsif post.snippet %}
-                        <p>{{ post.snippet }}</p>
-                        {% elsif post.content %}
-                        <p>{{ post.content | strip_html | truncate: 130}}...</p>
-                        {% else %}
-                        <p>Read latest.</p>
-                        {% endif %}
-                    </div>
-                    <div class="panel-body iconic-button">
-                        <button class="btn btn-primary btn-lg" role="button">Read latest</button>
-                    </div>
-                </div>
-            </a>
-        </div>
-    </div>
-</div>
 <div class="post">
 {{ content }}
 </div>
